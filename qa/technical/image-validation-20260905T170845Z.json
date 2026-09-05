@@ -1,0 +1,24 @@
+{
+  "report_type": "technical_image_validation",
+  "generated_at_utc": "2026-09-05T17:08:45.859575+00:00",
+  "project": "Neuroflow",
+  "config": "production/scripts/config.yaml",
+  "source_directory": "art/selected",
+  "overall_result": "NO_IMAGES",
+  "summary": {
+    "files_scanned": 0,
+    "passed": 0,
+    "warnings": 0,
+    "failed": 0
+  },
+  "ignored_documentation_files": [
+    "README.md"
+  ],
+  "files": [],
+  "limitations": [
+    "This validator does not modify images.",
+    "DPI metadata and pixel dimensions are recorded separately.",
+    "Print-size suitability remains pending until trim size, orientation, bleed, and margins are decided.",
+    "Watermarks, text, aesthetics, and other semantic visual issues belong to visual QA."
+  ]
+}

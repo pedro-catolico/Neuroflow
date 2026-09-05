@@ -60,4 +60,18 @@
 
 ---
 
+## [0.1.1] — 2026-09-05 — Foundation Refinement
+
+### Estrutura & Rastreabilidade
+- Implementação do documento `docs/CRITICAL_DECISIONS.md` para centralização de decisões editoriais e técnicas com status, dependências e gate pré-Style Test.
+- Implementação do sistema de Prompt Tracking em `art/prompts/illustration-prompts/` com `README.md`, `_TEMPLATE.md` e 45 fichas individuais (`NF-001.md` a `NF-045.md`) estruturadas com status `PLANNED / NOT TESTED`.
+
+### Mitigação de Riscos & Automação
+- Implementação do documento `docs/RISK_MITIGATION.md` complementando o Risk Register de `docs/PROJECT_BRIEF.md` com triggers, prevenção, contingência, escalonamento e relação com os 7 checkpoints.
+- Implementação de `production/scripts/config.yaml` e `production/scripts/validate_images.py` para validação técnica inicial de imagens em `art/selected/` sem alterar os arquivos.
+- Atualização do `production/scripts/README.md` documentando a configuração e o validador técnico.
+
+---
+
 *Formato: [versão] — data — fase*
+

@@ -8,10 +8,10 @@
 | Campo | Valor |
 |-------|-------|
 | **Status** | 🟡 FOUNDATION — Em desenvolvimento |
-| **Fase Atual** | PROJECT FOUNDATION + ENVIRONMENT DISCOVERY + PRODUCTION ARCHITECTURE |
+| **Fase Atual** | PROJECT FOUNDATION + ENVIRONMENT DISCOVERY + PRODUCTION ARCHITECTURE + FOUNDATION REFINEMENT |
 | **Próxima Fase** | CHECKPOINT 01 — Direção Artística |
-| **Versão** | 0.1.0 |
-| **Última Atualização** | 2026-09-03 |
+| **Versão** | 0.1.1 |
+| **Última Atualização** | 2026-09-05 |
 
 ---
 
@@ -24,7 +24,7 @@
 [x] Style Bible (documento criado — aguarda aprovação)
 [x] Illustration Planning (45 conceitos — aguarda revisão)
 [x] Prompt System (Master, Style, Negative, Variation — aguarda teste)
-[ ] Workflow Architecture  ← Parcialmente — skill própria não criada (intencional)
+[ ] Workflow Architecture  ← Refinada; skill própria não criada (intencional)
 [ ] Style Test             ← PRÓXIMA ETAPA
 [ ] Image Generation
 [ ] Curation
@@ -48,6 +48,10 @@
 ✅ Sistema de prompts criado  
 ✅ Illustration Master Plan com 45 conceitos  
 ✅ Skills analisadas e classificadas  
+✅ Critical Decisions implementado — decisões editoriais continuam pendentes  
+✅ Prompt Tracking implementado — 45 fichas planejadas, sem geração ou aprovação  
+✅ Risk Mitigation implementado — complemento ao Risk Register e aos checkpoints existentes  
+✅ Script Foundation implementado — validação técnica inicial e configuração centralizada  
 
 ### Aguardando aprovação do usuário:
 ⬜ Revisão do STYLE_BIBLE.md  
@@ -86,6 +90,8 @@
 | Páginas em branco (verso) | Médio | Antes do Layout |
 | Organização temática | Médio | Antes do Layout |
 
+Ver `docs/CRITICAL_DECISIONS.md` para status, dependências e gates dessas decisões.
+
 ---
 
 ## RISCOS CONHECIDOS
@@ -98,6 +104,8 @@
 | Especificações KDP desatualizadas | 🟡 Ativo | Verificar antes do PDF final |
 | Preto excessivo nas imagens | 🟡 Ativo | NEGATIVE_PROMPT rigoroso |
 | Tempo de geração subestimado | 🟡 Ativo | Processo iterativo planejado |
+
+Ver `docs/RISK_MITIGATION.md` para triggers, prevenção, contingência e escalonamento.
 
 ---
 
@@ -112,6 +120,10 @@
 | Illustrations Master | content/illustration-list/illustrations-master.md | ✅ Criado |
 | Quality Control | docs/QUALITY_CONTROL.md | ✅ Criado |
 | KDP Specs | docs/KDP_SPECIFICATIONS.md | ✅ Criado |
+| Critical Decisions | docs/CRITICAL_DECISIONS.md | ✅ Implementado — sem decisões editoriais aprovadas |
+| Risk Mitigation | docs/RISK_MITIGATION.md | ✅ Implementado |
+| Prompt Tracking | art/prompts/illustration-prompts/ | ✅ Implementado — 45 fichas PLANNED / NOT TESTED |
+| Script Foundation | production/scripts/config.yaml + validate_images.py | ✅ Implementado |
 
 ---
 

@@ -1,0 +1,31 @@
+{
+  "project": {
+    "name": "Neuroflow"
+  },
+  "validation": {
+    "minimum_dpi": 300,
+    "allowed_formats": ["PNG", "JPEG", "TIFF"],
+    "allowed_extensions": [".png", ".jpg", ".jpeg", ".tif", ".tiff"],
+    "check_dimensions": true,
+    "check_color_mode": true,
+    "check_dpi": true,
+    "allowed_color_modes": ["1", "L", "LA", "P", "RGB", "RGBA", "CMYK", "I;16", "I;16B", "I;16L"],
+    "color_mode_policy_status": "preliminary_technical_validation_only"
+  },
+  "print_size_assessment": {
+    "status": "pending",
+    "trim_size_inches": null,
+    "orientation": null,
+    "bleed_inches": null,
+    "margins_inches": null,
+    "note": "Trim size, orientation, bleed and margins remain pending editorial/KDP decisions. DPI metadata is reported separately from pixel dimensions."
+  },
+  "paths": {
+    "selected": "art/selected",
+    "technical_qa": "qa/technical",
+    "logs": "production/logs"
+  },
+  "reports": {
+    "filename_prefix": "image-validation"
+  }
+}
