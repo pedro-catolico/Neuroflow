@@ -27,6 +27,9 @@ A linguagem visual do Neuroflow é inspirada no **neurografismo** — uma práti
 - Arte digital técnica ou data visualization
 - Mandala simétrica
 
+> **Síntese Conceitual — Contemplativo Figurativo**:  
+> “Contemplativo Figurativo” é a síntese conceitual da direção artística do Neuroflow: figuras e ambientes reconhecíveis são trabalhados por meio de uma linguagem neurográfica orgânica contínua, com composição contemplativa e complexidade destinada ao público adulto.
+
 ---
 
 ## 2. COMPOSIÇÃO

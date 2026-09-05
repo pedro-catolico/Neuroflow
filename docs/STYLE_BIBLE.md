@@ -5,6 +5,14 @@
 > Toda imagem gerada, aprovada ou rejeitada deve ser avaliada contra este documento.
 > Em caso de conflito entre este documento e qualquer outro, este prevalece.
 
+## 0. CONCEITO SÍNTESE: CONTEMPLATIVO FIGURATIVO
+
+A identidade visual do Neuroflow tem como síntese o **Contemplativo Figurativo**:
+- **Contemplativo**: Silêncio visual, sensação de pausa, presença, introspecção, composição equilibrada e convite à observação prolongada e consciente.
+- **Figurativo**: Elementos, ambientes, seres ou objetos concretos e reconhecíveis trabalhados por meio de uma estrutura neurográfica orgânica contínua.
+
+**Fórmula Visual**: Figura Reconhecível + Estrutura Neurográfica Orgânica + Composição Contemplativa + Complexidade Adulta.
+
 ---
 
 ## 1. LINHAS
@@ -65,13 +73,13 @@
 
 ### 2.1 Orgânicas
 - Formas primárias são **curvilíneas e irregulares**
-- Inspiradas em formas naturais: água, nuvens, tecidos, raízes, neurônios, fungos
-- Não devem ser identificáveis como objetos concretos (evitar representação figurativa)
+- Inspiradas em formas naturais: água, nuvens, tecidos, raízes, neurônios, figuras e paisagens
+- Formas orgânicas integram-se a elementos, ambientes e seres reconhecíveis (linguagem contemplativo-figurativa)
 
-### 2.2 Abstratas
-- Sem significado literal ou narrativo
-- A forma evoca **sensação** (movimento, fluxo, expansão), não conceito
-- O observador pode projetar significado — isso é intencional
+### 2.2 Abstratas & Estruturais
+- A estrutura neurográfica evoca **fluxo, continuidade e contemplação**
+- A linha neurográfica envolve, estrutura e conecta a figura concreta ao ambiente sem transformá-la em abstração geométrica pura
+- O observador encontra equilíbrio entre a figura reconhecível e a sensação de presença e introspecção
 
 ### 2.3 Fluidas
 - Formas se **transformam** umas nas outras
@@ -293,8 +301,7 @@ As seguintes palavras/conceitos não devem aparecer nos prompts nem nas avaliaç
 ❌ Simétrico (como única qualidade)  
 ❌ Brilhante (em contexto de cor)  
 ❌ Colorido (para imagens em grayscale)  
-❌ Personagem / character  
-❌ Figurativo / representational  
+❌ Abstração pura sem figura / Padrão geométrico ou mandálico  
 
 ---
 
@@ -323,7 +330,7 @@ TÉCNICA
 [ ] Sem watermark
 [ ] Sem texto
 [ ] Sem assinatura
-[ ] Sem personagens reconhecíveis
+[ ] Sem elementos infantis, caricatos ou marcas comerciais
 [ ] Sem marcas comerciais
 ```
 

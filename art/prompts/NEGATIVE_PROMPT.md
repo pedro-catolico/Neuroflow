@@ -20,10 +20,10 @@ cartoon, anime, kawaii, cute, childlike, baby, infantile, clipart,
 colorful illustration, character design, mascot, emoji style,
 flat design, icon, pictogram, sticker
 
-Figurative elements:
-human figure, face, portrait, animal, creature, monster,
-recognizable character, celebrity likeness, fictional character,
-trademarked character, recognizable artwork
+Prohibited character styles & commercial clutter:
+childlike figures, cartoon character, mascot, emoji style,
+celebrity likeness, fictional trademarked character, pop art, manga, anime,
+pure geometric mandalas, abstract geometric clutter
 
 Quality issues:
 blurry, pixelated, low resolution, compression artifacts, 
@@ -46,7 +46,7 @@ advertising element, promotional content, product placement,
 price tag, barcode
 
 Style contradictions:
-realistic portrait, landscape, still life, photograph effect,
+photorealistic portrait, photograph effect, 3D render,
 digital painting with brush strokes, oil painting texture,
 watercolor wash (as primary style — light texture is acceptable),
 pencil sketch without line art foundation
@@ -59,10 +59,10 @@ pencil sketch without line art foundation
 ### Versão Abreviada (para prompts curtos)
 
 ```
-No text, watermarks, signatures. No cartoon or childlike style. 
-No realistic figures or faces. No solid black areas. 
-No perfect geometric shapes. No rigid symmetry.
-No logos, brands, or copyrighted elements.
+No text, watermarks, signatures. No cartoon, anime, or childlike style. 
+No photorealism or 3D render. No solid black areas. 
+No perfect geometric shapes or rigid mandalas.
+No logos, brands, or trademarked characters.
 ```
 
 ### Versão Completa

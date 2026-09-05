@@ -31,7 +31,9 @@
 
 ### DECIDIDO
 
-Nenhuma das decisões editoriais listadas acima está decidida neste momento. As decisões já confirmadas de conceito, público, técnica artística e plataforma permanecem em `docs/PROJECT_BRIEF.md`.
+- **Conceito de Identidade Visual**: *NEUROFLOW — Contemplativo Figurativo* (Síntese aprovada: figuras reconhecíveis integradas à estrutura neurográfica orgânica contínua, composição contemplativa e complexidade adulta).
+- As decisões confirmadas de conceito geral, público, técnica artística e plataforma estão consolidadas em `docs/PROJECT_BRIEF.md` e `docs/STYLE_BIBLE.md`.
+*(Nota: Esta decisão conceitual não altera as decisões editoriais/técnicas pendentes de Trim Size, orientação, número de páginas, verso ou diagramação, que permanecem PENDENTE/BLOQUEADO).*
 
 ### PROPOSTO
 

@@ -8,7 +8,7 @@
 | Campo | Valor |
 |-------|-------|
 | **Nome** | NEUROFLOW |
-| **Conceito** | Fluxo Neurográfico |
+| **Conceito** | Contemplativo Figurativo (Fluxo Neurográfico) |
 | **Categoria** | Adult Coloring Book |
 | **Público** | Adultos |
 | **Idioma** | Inglês (mercado KDP) |
@@ -30,14 +30,14 @@ O produto **não deve parecer infantil**. É uma experiência estética e medita
 
 ## CONCEITO VISUAL
 
-A inspiração conceitual é o **fluxo neurográfico** — uma linguagem visual baseada em:
+A síntese visual do produto é o **Contemplativo Figurativo** (figuras reconhecíveis integradas à estrutura neurográfica orgânica contínua), baseada em:
 
+- Figura reconhecível envolta em estrutura neurográfica orgânica
 - Linhas fluidas e contínuas
 - Formas orgânicas interconectadas
-- Estruturas abstratas em movimento
 - Ritmo, equilíbrio e continuidade
 - Expansão e contração de espaços
-- Composição meditativa
+- Composição contemplativa de complexidade adulta
 - Profundidade visual
 
 **O que NÃO é:**

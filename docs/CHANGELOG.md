@@ -73,5 +73,16 @@
 
 ---
 
+## [0.1.2] — 2026-09-05 — Contemplative Figurative Identity Alignment
+
+### Identidade Conceitual
+- Registro formal da síntese conceitual de identidade visual: **NEUROFLOW — Contemplativo Figurativo** (Figura reconhecível + Estrutura neurográfica orgânica contínua + Composição contemplativa + Complexidade adulta).
+- Atualização cirúrgica em `docs/STYLE_BIBLE.md` incorporando a seção 0 (Conceito Síntese) e ajustando a classificação de representação figurativa.
+- Adição de nota de alinhamento em `docs/ART_DIRECTION.md` e `docs/PROJECT_BRIEF.md`.
+- Atualização de `art/prompts/NEGATIVE_PROMPT.md` e `art/prompts/VARIATION_RULES.md` eliminando proibições genéricas que conflitavam com representação figurativa contemplativa.
+- Registro da decisão conceitual aprovada em `docs/CRITICAL_DECISIONS.md` (sob `DECIDIDO`) e `PROJECT_STATUS.md` sem alterar as pendências editoriais/técnicas.
+
+---
+
 *Formato: [versão] — data — fase*
 

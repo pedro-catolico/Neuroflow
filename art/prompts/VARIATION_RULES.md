@@ -89,7 +89,7 @@ Estes elementos NÃO variam — são a identidade do Neuroflow:
 | Linguagem de linha | Sempre fluida, orgânica, contínua |
 | Ausência de geometria rígida | Sempre |
 | Escala tonal | Sempre completa (sem extremos puros dominantes) |
-| Ausência de elementos figurativos | Sempre |
+| Conceito visual síntese | Sempre Contemplativo Figurativo (figura reconhecível em fluxo neurográfico) |
 | Adequação para coloração adulta | Sempre |
 | Identidade contemplativa | Sempre |
 
