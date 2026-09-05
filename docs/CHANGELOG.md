@@ -84,5 +84,17 @@
 
 ---
 
+## [0.2.0] — 2026-09-05 — Prompt System: Contemplative Figurative Alignment
+
+### Sistema de Prompts (Alinhamento Operacional)
+- Elevação do Prompt System para a versão **0.2.0 — Contemplative Figurative Alignment**.
+- Atualização do `art/prompts/MASTER_PROMPT.md` integrando o "Contemplativo Figurativo" (figuras/cenas reconhecíveis + fluxo neurográfico orgânico + espaço contemplativo) como constante estrutural.
+- Atualização do `art/prompts/STYLE_PROMPT.md` definindo a hierarquia visual de execução (figura $\rightarrow$ linhas $\rightarrow$ espaço $\rightarrow$ contemplação).
+- Reestruturação do `art/prompts/NEGATIVE_PROMPT.md` eliminando proibições genéricas herdadas da abstração pura e focando em restrições de estética infantil, cartoon, fotorrealismo e poluição visual.
+- Atualização do `art/prompts/VARIATION_RULES.md` definindo a regra de variação ("variar o conteúdo, preservar a linguagem").
+- Preservação integral dos Style Tests históricos (`ST-001`, `ST-002`, `ST-003`), da lista mestre (`illustrations-master.md`) e das decisões editoriais pendentes em `docs/CRITICAL_DECISIONS.md`.
+
+---
+
 *Formato: [versão] — data — fase*
 

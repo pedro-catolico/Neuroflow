@@ -8,9 +8,9 @@
 | Campo | Valor |
 |-------|-------|
 | **Status** | 🟡 FOUNDATION — Em desenvolvimento |
-| **Fase Atual** | PROJECT FOUNDATION + ENVIRONMENT DISCOVERY + PRODUCTION ARCHITECTURE + FOUNDATION REFINEMENT |
+| **Fase Atual** | PROJECT FOUNDATION + ENVIRONMENT DISCOVERY + PRODUCTION ARCHITECTURE + PROMPT SYSTEM v0.2.0 |
 | **Próxima Fase** | CHECKPOINT 01 — Direção Artística |
-| **Versão** | 0.1.1 |
+| **Versão** | 0.2.0 |
 | **Última Atualização** | 2026-09-05 |
 
 ---
@@ -23,7 +23,7 @@
 [x] Art Direction (documento criado — aguarda aprovação)
 [x] Style Bible (documento criado — aguarda aprovação)
 [x] Illustration Planning (45 conceitos — aguarda revisão)
-[x] Prompt System (Master, Style, Negative, Variation — aguarda teste)
+[x] Prompt System (v0.2.0 Contemplative Figurative Alignment — aguarda teste/aprovação)
 [ ] Workflow Architecture  ← Refinada; skill própria não criada (intencional)
 [ ] Style Test             ← PRÓXIMA ETAPA
 [ ] Image Generation
@@ -45,7 +45,7 @@
 
 ✅ Estrutura de pastas criada  
 ✅ Documentação Foundation criada  
-✅ Sistema de prompts criado  
+✅ Sistema de prompts v0.2.0 alinhado ao conceito Contemplativo Figurativo  
 ✅ Illustration Master Plan com 45 conceitos  
 ✅ Skills analisadas e classificadas  
 ✅ Critical Decisions implementado — decisões editoriais continuam pendentes  
@@ -53,6 +53,7 @@
 ✅ Risk Mitigation implementado — complemento ao Risk Register e aos checkpoints existentes  
 ✅ Script Foundation implementado — validação técnica inicial e configuração centralizada  
 ✅ Decisão conceitual de Identidade Visual incorporada — NEUROFLOW: Contemplativo Figurativo  
+✅ Prompt System v0.2.0 — Contemplative Figurative Alignment concluído  
 
 ### Aguardando aprovação do usuário:
 ⬜ Revisão do STYLE_BIBLE.md  

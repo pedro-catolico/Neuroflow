@@ -82,16 +82,17 @@ Não colocar todas as imagens Level 5 no final — distribua.
 
 ## 3. CONSTANTES OBRIGATÓRIAS
 
-Estes elementos NÃO variam — são a identidade do Neuroflow:
+Estes elementos NÃO variam — são a identidade do Neuroflow (*Variar o conteúdo, preservar a linguagem*):
 
 | Elemento | Regra |
 |----------|-------|
 | Linguagem de linha | Sempre fluida, orgânica, contínua |
-| Ausência de geometria rígida | Sempre |
-| Escala tonal | Sempre completa (sem extremos puros dominantes) |
+| Ausência de geometria rígida | Sempre (sem mandalas ou padrões mecânicos) |
 | Conceito visual síntese | Sempre Contemplativo Figurativo (figura reconhecível em fluxo neurográfico) |
-| Adequação para coloração adulta | Sempre |
-| Identidade contemplativa | Sempre |
+| Integração figura-fluxo | A linha neurográfica envolve e conecta a figura sem destruir sua legibilidade |
+| Adequação para coloração adulta | Sempre (células confortáveis, linha preta pura, sem cinza) |
+| Identidade contemplativa | Sempre (atmosfera de pausa, presença e silêncio visual) |
+| Ausência de estética infantil | Sempre (sem cartoon, anime, mangá, mascotes ou caricaturas) |
 
 ---
 
@@ -119,16 +120,16 @@ Estes elementos NÃO variam — são a identidade do Neuroflow:
 ### Template
 
 ```
-[MASTER_PROMPT]
+[MASTER_PROMPT (v0.2.0)]
 
-[STYLE_PROMPT]
+[STYLE_PROMPT (v0.2.0)]
 
 Specific composition for [NF-XXX]:
+[Descrição do sujeito/figura reconhecível]
 [Descrição do tipo compositivo]
 [Descrição do fluxo dominante]
 [Descrição da zona de interesse]
-[Descrição de elementos específicos da ilustração]
-[Descrição de texturas específicas se houver]
+[Descrição da integração entre a figura e a estrutura neurográfica]
 Complexity level: [1–5]
 Density: [low / low-medium / medium / medium-high / high]
 ```
@@ -136,21 +137,15 @@ Density: [low / low-medium / medium / medium-high / high]
 ### Exemplo Aplicado
 
 ```
-[MASTER_PROMPT + STYLE_PROMPT]
+[MASTER_PROMPT + STYLE_PROMPT v0.2.0]
 
 Specific composition for NF-007:
-Spiral organic composition — a gentle, irregular spiral emanating from the upper-left 
-region of the composition. The spiral opens progressively, becoming looser and more 
-complex as it moves toward the lower-right. This is not a geometric spiral — it breathes, 
-expands and contracts subtly, creating rhythm.
-
-Lines branch off the main spiral in organic tendrils. Some loop back, creating enclosed 
-cells of varying sizes. The center of the spiral has beautiful negative space with a few 
-delicate detail lines. The outer regions become progressively denser with cross-hatching 
-and micro-detail lines.
+Contemplative figurative composition featuring a serene adult human silhouette in a quiet forest setting.
+Organic neurographic lines flow from the roots underfoot, wrapping around the central figure 
+and extending into the surrounding tree branches. The central figure remains clear and recognizable.
 
 Flow: Spiral / centrifugal. Dominant movement from upper-left to lower-right with rotation.
-Primary zone of interest: upper-left quadrant through center.
+Primary zone of interest: central figure and foreground path.
 Complexity level: 3 (intermediate).
 Density: Medium, rising to medium-high at the edges.
 ```
@@ -163,12 +158,23 @@ Evitar estas armadilhas comuns:
 
 | Anti-padrão | Problema | Solução |
 |-------------|---------|---------|
-| 50 variações da mesma "nebulosa de linhas" | Sem variedade real | Planejar explicitamente tipos compositivos diferentes |
+| 50 variações da mesma "nebulosa de linhas" | Sem variedade real | Planejar sujeitos e tipos compositivos diferentes |
 | Todas as imagens com o mesmo centro focal | Monotonia estrutural | Variar zona de interesse |
 | Complexidade crescente linear | Previsível | Distribuir aleatoriamente |
 | Todas ondulares ou todas espirais | Ausência de variedade de fluxo | Planejar distribuição de fluxos |
 | Densidade uniforme | Sem dinâmica | Mapear densidade explicitamente |
+| Abstração pura desprovida de figura | Perda da identidade v0.1.2 | Garantir figura ou cena reconhecível integrada ao fluxo |
 
 ---
 
-*Versão: 0.1.0 — Foundation*
+## NOTAS DE VERSÃO
+
+| Versão | Data | Mudança |
+|--------|------|---------|
+| 0.1.0 | 2026-09-03 | Versão inicial — Foundation Phase |
+| 0.2.0 | 2026-09-05 | Alinhamento operacional ao conceito Contemplativo Figurativo (v0.1.2) |
+
+---
+
+*Versão: 0.2.0 — Foundation*
+
