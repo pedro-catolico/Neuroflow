@@ -1,0 +1,537 @@
+# Estrutura da Pasta Neuroflow
+
+Inventario gerado em 2026-09-03 a partir da pasta principal `Neuroflow`.
+
+## Resumo
+
+- Pastas encontradas: 100
+- Arquivos encontrados: 420
+- Observacao: as pastas `.agents` e `.claude` possuem conteudo muito semelhante de skills/ferramentas; ambas foram listadas por completo por fazerem parte da cadeia atual da pasta.
+
+## Cadeia de Pastas
+
+- `Neuroflow/` - Pasta principal do projeto.
+  - `.agent/` - Configuracoes locais de agente e skills auxiliares.
+    - `.agent\skills/` - Configuracoes locais de agente e skills auxiliares.
+      - `.agent\skills\code-review-ai-ai-review/` - Configuracoes locais de agente e skills auxiliares.
+  - `.agents/` - Skills e ferramentas locais usadas por agentes automatizados.
+    - `.agents\skills/` - Skills e ferramentas locais usadas por agentes automatizados.
+      - `.agents\skills\baoyu-design/` - Skills e ferramentas locais usadas por agentes automatizados.
+        - `.agents\skills\baoyu-design\agents/` - Skills e ferramentas locais usadas por agentes automatizados.
+          - `.agents\skills\baoyu-design\agents\assets/` - Skills e ferramentas locais usadas por agentes automatizados.
+          - `.agents\skills\baoyu-design\agents\gen-pptx/` - Skills e ferramentas locais usadas por agentes automatizados.
+            - `.agents\skills\baoyu-design\agents\gen-pptx\src/` - Skills e ferramentas locais usadas por agentes automatizados.
+              - `.agents\skills\baoyu-design\agents\gen-pptx\src\browser/` - Skills e ferramentas locais usadas por agentes automatizados.
+              - `.agents\skills\baoyu-design\agents\gen-pptx\src\core/` - Skills e ferramentas locais usadas por agentes automatizados.
+              - `.agents\skills\baoyu-design\agents\gen-pptx\src\orchestrator/` - Skills e ferramentas locais usadas por agentes automatizados.
+              - `.agents\skills\baoyu-design\agents\gen-pptx\src\render/` - Skills e ferramentas locais usadas por agentes automatizados.
+              - `.agents\skills\baoyu-design\agents\gen-pptx\src\validate/` - Skills e ferramentas locais usadas por agentes automatizados.
+            - `.agents\skills\baoyu-design\agents\gen-pptx\test/` - Skills e ferramentas locais usadas por agentes automatizados.
+            - `.agents\skills\baoyu-design\agents\gen-pptx\vendor/` - Skills e ferramentas locais usadas por agentes automatizados.
+              - `.agents\skills\baoyu-design\agents\gen-pptx\vendor\pptxgenjs/` - Skills e ferramentas locais usadas por agentes automatizados.
+                - `.agents\skills\baoyu-design\agents\gen-pptx\vendor\pptxgenjs\libs/` - Skills e ferramentas locais usadas por agentes automatizados.
+                - `.agents\skills\baoyu-design\agents\gen-pptx\vendor\pptxgenjs\src/` - Skills e ferramentas locais usadas por agentes automatizados.
+                - `.agents\skills\baoyu-design\agents\gen-pptx\vendor\pptxgenjs\types/` - Skills e ferramentas locais usadas por agentes automatizados.
+          - `.agents\skills\baoyu-design\agents\gen-video/` - Skills e ferramentas locais usadas por agentes automatizados.
+            - `.agents\skills\baoyu-design\agents\gen-video\src/` - Skills e ferramentas locais usadas por agentes automatizados.
+              - `.agents\skills\baoyu-design\agents\gen-video\src\orchestrator/` - Skills e ferramentas locais usadas por agentes automatizados.
+              - `.agents\skills\baoyu-design\agents\gen-video\src\validate/` - Skills e ferramentas locais usadas por agentes automatizados.
+            - `.agents\skills\baoyu-design\agents\gen-video\test/` - Skills e ferramentas locais usadas por agentes automatizados.
+          - `.agents\skills\baoyu-design\agents\lib/` - Skills e ferramentas locais usadas por agentes automatizados.
+          - `.agents\skills\baoyu-design\agents\tests/` - Skills e ferramentas locais usadas por agentes automatizados.
+            - `.agents\skills\baoyu-design\agents\tests\fixtures/` - Skills e ferramentas locais usadas por agentes automatizados.
+          - `.agents\skills\baoyu-design\agents\vendor/` - Skills e ferramentas locais usadas por agentes automatizados.
+        - `.agents\skills\baoyu-design\built-in-skills/` - Skills e ferramentas locais usadas por agentes automatizados.
+        - `.agents\skills\baoyu-design\references/` - Skills e ferramentas locais usadas por agentes automatizados.
+          - `.agents\skills\baoyu-design\references\upstream-sync/` - Skills e ferramentas locais usadas por agentes automatizados.
+        - `.agents\skills\baoyu-design\starter-components/` - Skills e ferramentas locais usadas por agentes automatizados.
+      - `.agents\skills\release-skills/` - Skills e ferramentas locais usadas por agentes automatizados.
+  - `.claude/` - Copia/integracao de skills para ambiente Claude.
+    - `.claude\skills/` - Copia/integracao de skills para ambiente Claude.
+      - `.claude\skills\baoyu-design/` - Copia/integracao de skills para ambiente Claude.
+        - `.claude\skills\baoyu-design\agents/` - Copia/integracao de skills para ambiente Claude.
+          - `.claude\skills\baoyu-design\agents\assets/` - Copia/integracao de skills para ambiente Claude.
+          - `.claude\skills\baoyu-design\agents\gen-pptx/` - Copia/integracao de skills para ambiente Claude.
+            - `.claude\skills\baoyu-design\agents\gen-pptx\src/` - Copia/integracao de skills para ambiente Claude.
+              - `.claude\skills\baoyu-design\agents\gen-pptx\src\browser/` - Copia/integracao de skills para ambiente Claude.
+              - `.claude\skills\baoyu-design\agents\gen-pptx\src\core/` - Copia/integracao de skills para ambiente Claude.
+              - `.claude\skills\baoyu-design\agents\gen-pptx\src\orchestrator/` - Copia/integracao de skills para ambiente Claude.
+              - `.claude\skills\baoyu-design\agents\gen-pptx\src\render/` - Copia/integracao de skills para ambiente Claude.
+              - `.claude\skills\baoyu-design\agents\gen-pptx\src\validate/` - Copia/integracao de skills para ambiente Claude.
+            - `.claude\skills\baoyu-design\agents\gen-pptx\test/` - Copia/integracao de skills para ambiente Claude.
+            - `.claude\skills\baoyu-design\agents\gen-pptx\vendor/` - Copia/integracao de skills para ambiente Claude.
+              - `.claude\skills\baoyu-design\agents\gen-pptx\vendor\pptxgenjs/` - Copia/integracao de skills para ambiente Claude.
+                - `.claude\skills\baoyu-design\agents\gen-pptx\vendor\pptxgenjs\libs/` - Copia/integracao de skills para ambiente Claude.
+                - `.claude\skills\baoyu-design\agents\gen-pptx\vendor\pptxgenjs\src/` - Copia/integracao de skills para ambiente Claude.
+                - `.claude\skills\baoyu-design\agents\gen-pptx\vendor\pptxgenjs\types/` - Copia/integracao de skills para ambiente Claude.
+          - `.claude\skills\baoyu-design\agents\gen-video/` - Copia/integracao de skills para ambiente Claude.
+            - `.claude\skills\baoyu-design\agents\gen-video\src/` - Copia/integracao de skills para ambiente Claude.
+              - `.claude\skills\baoyu-design\agents\gen-video\src\orchestrator/` - Copia/integracao de skills para ambiente Claude.
+              - `.claude\skills\baoyu-design\agents\gen-video\src\validate/` - Copia/integracao de skills para ambiente Claude.
+            - `.claude\skills\baoyu-design\agents\gen-video\test/` - Copia/integracao de skills para ambiente Claude.
+          - `.claude\skills\baoyu-design\agents\lib/` - Copia/integracao de skills para ambiente Claude.
+          - `.claude\skills\baoyu-design\agents\tests/` - Copia/integracao de skills para ambiente Claude.
+            - `.claude\skills\baoyu-design\agents\tests\fixtures/` - Copia/integracao de skills para ambiente Claude.
+          - `.claude\skills\baoyu-design\agents\vendor/` - Copia/integracao de skills para ambiente Claude.
+        - `.claude\skills\baoyu-design\built-in-skills/` - Copia/integracao de skills para ambiente Claude.
+        - `.claude\skills\baoyu-design\references/` - Copia/integracao de skills para ambiente Claude.
+          - `.claude\skills\baoyu-design\references\upstream-sync/` - Copia/integracao de skills para ambiente Claude.
+        - `.claude\skills\baoyu-design\starter-components/` - Copia/integracao de skills para ambiente Claude.
+      - `.claude\skills\release-skills/` - Copia/integracao de skills para ambiente Claude.
+  - `archive/` - Area reservada para materiais antigos ou versoes arquivadas.
+  - `art/` - Area de criacao visual do livro.
+    - `art\final/` - Ilustracoes aprovadas em versao final.
+    - `art\generated/` - Imagens geradas durante o processo criativo.
+    - `art\grayscale/` - Versoes em escala de cinza para paginas de colorir.
+    - `art\prompts/` - Prompts e regras para geracao de imagens.
+      - `art\prompts\illustration-prompts/` - Prompts e regras para geracao de imagens.
+    - `art\qa/` - Revisao visual das artes.
+    - `art\references/` - Referencias visuais e documentacao de inspiracao.
+    - `art\rejected/` - Materiais recusados ou fora do padrao.
+    - `art\selected/` - Materiais selecionados antes da finalizacao.
+    - `art\style-tests/` - Testes de estilo visual e consistencia artistica.
+  - `content/` - Conteudo editorial do projeto.
+    - `content\concepts/` - Ideias e conceitos editoriais para o livro.
+    - `content\cover/` - Textos, ideias e materiais de capa.
+    - `content\illustration-list/` - Planejamento mestre das ilustracoes.
+    - `content\metadata/` - Metadados editoriais/comerciais.
+  - `docs/` - Documentacao principal do projeto.
+  - `output/` - Saidas finais, previas e pacotes exportados.
+    - `output\cover/` - Saidas finais, previas e pacotes exportados.
+    - `output\interior/` - Saidas finais, previas e pacotes exportados.
+    - `output\previews/` - Saidas finais, previas e pacotes exportados.
+    - `output\release/` - Saidas finais, previas e pacotes exportados.
+  - `production/` - Recursos de producao, layout, templates, scripts e builds.
+    - `production\assets/` - Ativos usados na montagem final.
+    - `production\builds/` - Builds intermediarios ou finais gerados pelo pipeline.
+    - `production\layouts/` - Arquivos de layout e composicao.
+    - `production\scripts/` - Scripts e documentacao para automacao de producao.
+    - `production\templates/` - Templates usados para montar paginas e entregaveis.
+  - `qa/` - Controle de qualidade tecnico e visual.
+    - `qa\reports/` - Controle de qualidade tecnico e visual.
+    - `qa\technical/` - Controle de qualidade tecnico e visual.
+    - `qa\visual/` - Controle de qualidade tecnico e visual.
+
+## Arquivos
+
+      - `.agent\skills\code-review-ai-ai-review\SKILL.md` (15,1 KB) - Define uma skill local, com instrucoes de uso e comportamento esperado.
+          - `.agents\skills\baoyu-design\agents\assets\vision-probe.png` (263 B) - Ativo visual usado em testes/sondagem de renderizacao.
+        - `.agents\skills\baoyu-design\agents\build-preview.mjs` (66,4 KB) - Script Node auxiliar usado por uma skill/agente.
+        - `.agents\skills\baoyu-design\agents\check-design-system.mjs` (4,4 KB) - Script Node auxiliar usado por uma skill/agente.
+        - `.agents\skills\baoyu-design\agents\compile-design-system.mjs` (14,9 KB) - Script Node auxiliar usado por uma skill/agente.
+        - `.agents\skills\baoyu-design\agents\design-system-checker.md` (2,0 KB) - Instrucoes documentais para agente auxiliar.
+        - `.agents\skills\baoyu-design\agents\fork-verifier-agent.md` (4,0 KB) - Instrucoes documentais para agente auxiliar.
+          - `.agents\skills\baoyu-design\agents\gen-pptx\.gitignore` (22 B) - Define arquivos ignorados pelo Git nesta subpasta.
+          - `.agents\skills\baoyu-design\agents\gen-pptx\package-lock.json` (21,2 KB) - Trava versoes das dependencias do gerador PPTX.
+          - `.agents\skills\baoyu-design\agents\gen-pptx\package.json` (1,2 KB) - Configura scripts e dependencias do gerador PPTX.
+              - `.agents\skills\baoyu-design\agents\gen-pptx\src\browser\capture-editable.ts` (14,4 KB) - Codigo executado/capturado no navegador para exportacao PPTX.
+              - `.agents\skills\baoyu-design\agents\gen-pptx\src\browser\capture-screenshot.ts` (802 B) - Codigo executado/capturado no navegador para exportacao PPTX.
+              - `.agents\skills\baoyu-design\agents\gen-pptx\src\browser\dom-style.ts` (4,9 KB) - Codigo executado/capturado no navegador para exportacao PPTX.
+              - `.agents\skills\baoyu-design\agents\gen-pptx\src\browser\entry.ts` (1,1 KB) - Codigo executado/capturado no navegador para exportacao PPTX.
+              - `.agents\skills\baoyu-design\agents\gen-pptx\src\browser\gradient.ts` (9,3 KB) - Codigo executado/capturado no navegador para exportacao PPTX.
+              - `.agents\skills\baoyu-design\agents\gen-pptx\src\browser\media-browser.ts` (6,8 KB) - Codigo executado/capturado no navegador para exportacao PPTX.
+              - `.agents\skills\baoyu-design\agents\gen-pptx\src\browser\setup.ts` (9,7 KB) - Codigo executado/capturado no navegador para exportacao PPTX.
+            - `.agents\skills\baoyu-design\agents\gen-pptx\src\cli.ts` (4,3 KB) - Entrada de linha de comando do gerador PPTX.
+              - `.agents\skills\baoyu-design\agents\gen-pptx\src\core\anim.ts` (14,1 KB) - Utilitario central do gerador PPTX.
+              - `.agents\skills\baoyu-design\agents\gen-pptx\src\core\color.ts` (2,3 KB) - Utilitario central do gerador PPTX.
+              - `.agents\skills\baoyu-design\agents\gen-pptx\src\core\css.ts` (7,2 KB) - Utilitario central do gerador PPTX.
+              - `.agents\skills\baoyu-design\agents\gen-pptx\src\core\filename.ts` (530 B) - Utilitario central do gerador PPTX.
+              - `.agents\skills\baoyu-design\agents\gen-pptx\src\core\fonts.ts` (1,2 KB) - Utilitario central do gerador PPTX.
+              - `.agents\skills\baoyu-design\agents\gen-pptx\src\core\sanitize.ts` (527 B) - Utilitario central do gerador PPTX.
+              - `.agents\skills\baoyu-design\agents\gen-pptx\src\core\units.ts` (597 B) - Utilitario central do gerador PPTX.
+            - `.agents\skills\baoyu-design\agents\gen-pptx\src\index.ts` (391 B) - Ponto de exportacao principal do modulo gen-pptx.
+              - `.agents\skills\baoyu-design\agents\gen-pptx\src\orchestrator\driver.ts` (2,2 KB) - Coordena etapas de execucao do gerador PPTX.
+              - `.agents\skills\baoyu-design\agents\gen-pptx\src\orchestrator\errors.ts` (1,1 KB) - Coordena etapas de execucao do gerador PPTX.
+              - `.agents\skills\baoyu-design\agents\gen-pptx\src\orchestrator\inject.ts` (3,3 KB) - Coordena etapas de execucao do gerador PPTX.
+              - `.agents\skills\baoyu-design\agents\gen-pptx\src\orchestrator\output.ts` (672 B) - Coordena etapas de execucao do gerador PPTX.
+              - `.agents\skills\baoyu-design\agents\gen-pptx\src\orchestrator\run.ts` (6,3 KB) - Coordena etapas de execucao do gerador PPTX.
+              - `.agents\skills\baoyu-design\agents\gen-pptx\src\render\build-editable.ts` (3,9 KB) - Renderiza conteudo capturado em slides PPTX.
+              - `.agents\skills\baoyu-design\agents\gen-pptx\src\render\build-screenshot.ts` (1,5 KB) - Renderiza conteudo capturado em slides PPTX.
+              - `.agents\skills\baoyu-design\agents\gen-pptx\src\render\context.ts` (3,0 KB) - Renderiza conteudo capturado em slides PPTX.
+              - `.agents\skills\baoyu-design\agents\gen-pptx\src\render\list.ts` (2,5 KB) - Renderiza conteudo capturado em slides PPTX.
+              - `.agents\skills\baoyu-design\agents\gen-pptx\src\render\media-cache.ts` (3,0 KB) - Renderiza conteudo capturado em slides PPTX.
+              - `.agents\skills\baoyu-design\agents\gen-pptx\src\render\render-node.ts` (21,4 KB) - Renderiza conteudo capturado em slides PPTX.
+              - `.agents\skills\baoyu-design\agents\gen-pptx\src\render\text-runs.ts` (10,2 KB) - Renderiza conteudo capturado em slides PPTX.
+              - `.agents\skills\baoyu-design\agents\gen-pptx\src\render\timing.ts` (26,6 KB) - Renderiza conteudo capturado em slides PPTX.
+            - `.agents\skills\baoyu-design\agents\gen-pptx\src\types.ts` (5,9 KB) - Tipos TypeScript compartilhados do gerador PPTX.
+              - `.agents\skills\baoyu-design\agents\gen-pptx\src\validate\validate.ts` (5,9 KB) - Valida entradas/configuracoes do gerador PPTX.
+            - `.agents\skills\baoyu-design\agents\gen-pptx\test\anim-render.test.ts` (3,0 KB) - Teste automatizado do gerador PPTX.
+            - `.agents\skills\baoyu-design\agents\gen-pptx\test\anim.test.ts` (13,1 KB) - Teste automatizado do gerador PPTX.
+            - `.agents\skills\baoyu-design\agents\gen-pptx\test\core.test.ts` (8,5 KB) - Teste automatizado do gerador PPTX.
+            - `.agents\skills\baoyu-design\agents\gen-pptx\test\gradient.test.ts` (3,0 KB) - Teste automatizado do gerador PPTX.
+            - `.agents\skills\baoyu-design\agents\gen-pptx\test\timing.test.ts` (26,3 KB) - Teste automatizado do gerador PPTX.
+            - `.agents\skills\baoyu-design\agents\gen-pptx\test\vendor.test.ts` (5,5 KB) - Teste automatizado do gerador PPTX.
+          - `.agents\skills\baoyu-design\agents\gen-pptx\tsconfig.json` (514 B) - Configura compilacao TypeScript do gerador PPTX.
+                - `.agents\skills\baoyu-design\agents\gen-pptx\vendor\pptxgenjs\libs\jszip.min.js` (95,4 KB) - Codigo/dependencia vendorizada usada na geracao PPTX.
+                - `.agents\skills\baoyu-design\agents\gen-pptx\vendor\pptxgenjs\libs\polyfill.min.js` (97,0 KB) - Codigo/dependencia vendorizada usada na geracao PPTX.
+              - `.agents\skills\baoyu-design\agents\gen-pptx\vendor\pptxgenjs\LICENSE` (1,1 KB) - Codigo/dependencia vendorizada usada na geracao PPTX.
+              - `.agents\skills\baoyu-design\agents\gen-pptx\vendor\pptxgenjs\package.json` (288 B) - Codigo/dependencia vendorizada usada na geracao PPTX.
+                - `.agents\skills\baoyu-design\agents\gen-pptx\vendor\pptxgenjs\src\core-enums.ts` (97,3 KB) - Codigo/dependencia vendorizada usada na geracao PPTX.
+                - `.agents\skills\baoyu-design\agents\gen-pptx\vendor\pptxgenjs\src\core-interfaces.ts` (48,2 KB) - Codigo/dependencia vendorizada usada na geracao PPTX.
+                - `.agents\skills\baoyu-design\agents\gen-pptx\vendor\pptxgenjs\src\gen-charts.ts` (101,4 KB) - Codigo/dependencia vendorizada usada na geracao PPTX.
+                - `.agents\skills\baoyu-design\agents\gen-pptx\vendor\pptxgenjs\src\gen-media.ts` (7,7 KB) - Codigo/dependencia vendorizada usada na geracao PPTX.
+                - `.agents\skills\baoyu-design\agents\gen-pptx\vendor\pptxgenjs\src\gen-objects.ts` (55,7 KB) - Codigo/dependencia vendorizada usada na geracao PPTX.
+                - `.agents\skills\baoyu-design\agents\gen-pptx\vendor\pptxgenjs\src\gen-tables.ts` (37,0 KB) - Codigo/dependencia vendorizada usada na geracao PPTX.
+                - `.agents\skills\baoyu-design\agents\gen-pptx\vendor\pptxgenjs\src\gen-utils.ts` (10,1 KB) - Codigo/dependencia vendorizada usada na geracao PPTX.
+                - `.agents\skills\baoyu-design\agents\gen-pptx\vendor\pptxgenjs\src\gen-xml.ts` (116,9 KB) - Codigo/dependencia vendorizada usada na geracao PPTX.
+                - `.agents\skills\baoyu-design\agents\gen-pptx\vendor\pptxgenjs\src\pptxgen.ts` (26,9 KB) - Codigo/dependencia vendorizada usada na geracao PPTX.
+                - `.agents\skills\baoyu-design\agents\gen-pptx\vendor\pptxgenjs\src\slide.ts` (7,4 KB) - Codigo/dependencia vendorizada usada na geracao PPTX.
+                - `.agents\skills\baoyu-design\agents\gen-pptx\vendor\pptxgenjs\types\index.d.ts` (74,1 KB) - Codigo/dependencia vendorizada usada na geracao PPTX.
+              - `.agents\skills\baoyu-design\agents\gen-pptx\vendor\pptxgenjs\VENDOR.md` (4,0 KB) - Codigo/dependencia vendorizada usada na geracao PPTX.
+          - `.agents\skills\baoyu-design\agents\gen-video\.gitignore` (22 B) - Define arquivos ignorados pelo Git nesta subpasta.
+          - `.agents\skills\baoyu-design\agents\gen-video\package-lock.json` (16,8 KB) - Trava versoes das dependencias do gerador de video.
+          - `.agents\skills\baoyu-design\agents\gen-video\package.json` (802 B) - Configura scripts e dependencias do gerador de video.
+            - `.agents\skills\baoyu-design\agents\gen-video\src\cli.ts` (5,2 KB) - Entrada de linha de comando do gerador de video.
+              - `.agents\skills\baoyu-design\agents\gen-video\src\orchestrator\driver.ts` (2,6 KB) - Coordena etapas de execucao e exportacao de video.
+              - `.agents\skills\baoyu-design\agents\gen-video\src\orchestrator\encode.ts` (3,0 KB) - Coordena etapas de execucao e exportacao de video.
+              - `.agents\skills\baoyu-design\agents\gen-video\src\orchestrator\errors.ts` (970 B) - Coordena etapas de execucao e exportacao de video.
+              - `.agents\skills\baoyu-design\agents\gen-video\src\orchestrator\filename.ts` (530 B) - Coordena etapas de execucao e exportacao de video.
+              - `.agents\skills\baoyu-design\agents\gen-video\src\orchestrator\output.ts` (782 B) - Coordena etapas de execucao e exportacao de video.
+              - `.agents\skills\baoyu-design\agents\gen-video\src\orchestrator\run.ts` (7,5 KB) - Coordena etapas de execucao e exportacao de video.
+            - `.agents\skills\baoyu-design\agents\gen-video\src\types.ts` (1,9 KB) - Tipos TypeScript compartilhados do gerador de video.
+              - `.agents\skills\baoyu-design\agents\gen-video\src\validate\validate.ts` (2,2 KB) - Valida entradas/configuracoes do gerador de video.
+            - `.agents\skills\baoyu-design\agents\gen-video\test\core.test.ts` (4,1 KB) - Teste automatizado do gerador de video.
+          - `.agents\skills\baoyu-design\agents\gen-video\tsconfig.json` (430 B) - Configura compilacao TypeScript do gerador de video.
+        - `.agents\skills\baoyu-design\agents\import-design-system.mjs` (11,0 KB) - Script Node auxiliar usado por uma skill/agente.
+        - `.agents\skills\baoyu-design\agents\import-figma.mjs` (32,5 KB) - Script Node auxiliar usado por uma skill/agente.
+          - `.agents\skills\baoyu-design\agents\lib\asset-store.mjs` (6,9 KB) - Script Node auxiliar usado por uma skill/agente.
+          - `.agents\skills\baoyu-design\agents\lib\ds-core.mjs` (28,2 KB) - Script Node auxiliar usado por uma skill/agente.
+          - `.agents\skills\baoyu-design\agents\lib\ds-prompt.mjs` (12,8 KB) - Script Node auxiliar usado por uma skill/agente.
+        - `.agents\skills\baoyu-design\agents\record-asset.mjs` (7,6 KB) - Script Node auxiliar usado por uma skill/agente.
+          - `.agents\skills\baoyu-design\agents\tests\asset-store.test.mjs` (5,1 KB) - Teste automatizado do modulo/agente correspondente.
+          - `.agents\skills\baoyu-design\agents\tests\build-preview.test.mjs` (1,5 KB) - Teste automatizado do modulo/agente correspondente.
+          - `.agents\skills\baoyu-design\agents\tests\check-design-system.test.mjs` (2,4 KB) - Teste automatizado do modulo/agente correspondente.
+          - `.agents\skills\baoyu-design\agents\tests\compile-design-system.test.mjs` (4,1 KB) - Teste automatizado do modulo/agente correspondente.
+          - `.agents\skills\baoyu-design\agents\tests\ds-core.test.mjs` (10,9 KB) - Teste automatizado do modulo/agente correspondente.
+          - `.agents\skills\baoyu-design\agents\tests\ds-prompt.test.mjs` (5,1 KB) - Teste automatizado do modulo/agente correspondente.
+            - `.agents\skills\baoyu-design\agents\tests\fixtures\minimal.fig` (528 B) - Fixture de teste usada pelos agentes.
+          - `.agents\skills\baoyu-design\agents\tests\helpers.mjs` (4,5 KB) - Funcoes auxiliares usadas pelos testes.
+          - `.agents\skills\baoyu-design\agents\tests\import-design-system.test.mjs` (4,5 KB) - Teste automatizado do modulo/agente correspondente.
+          - `.agents\skills\baoyu-design\agents\tests\import-figma.test.mjs` (3,9 KB) - Teste automatizado do modulo/agente correspondente.
+          - `.agents\skills\baoyu-design\agents\tests\project-types.test.mjs` (5,8 KB) - Teste automatizado do modulo/agente correspondente.
+          - `.agents\skills\baoyu-design\agents\tests\record-asset.test.mjs` (3,7 KB) - Teste automatizado do modulo/agente correspondente.
+          - `.agents\skills\baoyu-design\agents\tests\vision-probe-docs.test.mjs` (2,8 KB) - Teste automatizado do modulo/agente correspondente.
+          - `.agents\skills\baoyu-design\agents\vendor\babel.min.js` (2,99 MB) - Dependencia vendorizada usada pelos scripts/agentes locais.
+          - `.agents\skills\baoyu-design\agents\vendor\fflate.mjs` (31,4 KB) - Dependencia vendorizada usada pelos scripts/agentes locais.
+          - `.agents\skills\baoyu-design\agents\vendor\fig-materialize.mjs` (316,7 KB) - Dependencia vendorizada usada pelos scripts/agentes locais.
+          - `.agents\skills\baoyu-design\agents\vendor\react-18.3.1.production.min.js` (10,5 KB) - Dependencia vendorizada usada pelos scripts/agentes locais.
+          - `.agents\skills\baoyu-design\agents\vendor\react-dom-18.3.1.production.min.js` (129,0 KB) - Dependencia vendorizada usada pelos scripts/agentes locais.
+        - `.agents\skills\baoyu-design\agents\vision-probe-agent.md` (1,3 KB) - Instrucoes documentais para agente auxiliar.
+        - `.agents\skills\baoyu-design\built-in-skills\3d-object.md` (4,3 KB) - Instrucoes da skill interna "3d object".
+        - `.agents\skills\baoyu-design\built-in-skills\animated-video.md` (10,5 KB) - Instrucoes da skill interna "animated video".
+        - `.agents\skills\baoyu-design\built-in-skills\ask-the-user.md` (17,4 KB) - Instrucoes da skill interna "ask the user".
+        - `.agents\skills\baoyu-design\built-in-skills\claude-api-in-prototypes.md` (1,1 KB) - Instrucoes da skill interna "claude api in prototypes".
+        - `.agents\skills\baoyu-design\built-in-skills\create-design-system.md` (18,7 KB) - Instrucoes da skill interna "create design system".
+        - `.agents\skills\baoyu-design\built-in-skills\data-science.md` (21,6 KB) - Instrucoes da skill interna "data science".
+        - `.agents\skills\baoyu-design\built-in-skills\data-visualization.md` (9,5 KB) - Instrucoes da skill interna "data visualization".
+        - `.agents\skills\baoyu-design\built-in-skills\design-components.md` (3,3 KB) - Instrucoes da skill interna "design components".
+        - `.agents\skills\baoyu-design\built-in-skills\design-feedback.md` (6,1 KB) - Instrucoes da skill interna "design feedback".
+        - `.agents\skills\baoyu-design\built-in-skills\design-system-authoring-guide.md` (22,0 KB) - Instrucoes da skill interna "design system authoring guide".
+        - `.agents\skills\baoyu-design\built-in-skills\design-system-preview.md` (5,9 KB) - Instrucoes da skill interna "design system preview".
+        - `.agents\skills\baoyu-design\built-in-skills\experiment-workflow.md` (11,4 KB) - Instrucoes da skill interna "experiment workflow".
+        - `.agents\skills\baoyu-design\built-in-skills\export-as-pptx-editable.md` (9,9 KB) - Instrucoes da skill interna "export as pptx editable".
+        - `.agents\skills\baoyu-design\built-in-skills\export-as-pptx-screenshots.md` (3,0 KB) - Instrucoes da skill interna "export as pptx screenshots".
+        - `.agents\skills\baoyu-design\built-in-skills\export-as-video.md` (6,0 KB) - Instrucoes da skill interna "export as video".
+        - `.agents\skills\baoyu-design\built-in-skills\export-pptx-editable.md` (6,0 KB) - Instrucoes da skill interna "export pptx editable".
+        - `.agents\skills\baoyu-design\built-in-skills\export-pptx-screenshots.md` (1,9 KB) - Instrucoes da skill interna "export pptx screenshots".
+        - `.agents\skills\baoyu-design\built-in-skills\exportable-video.md` (2,3 KB) - Instrucoes da skill interna "exportable video".
+        - `.agents\skills\baoyu-design\built-in-skills\flier.md` (2,1 KB) - Instrucoes da skill interna "flier".
+        - `.agents\skills\baoyu-design\built-in-skills\frontend-design.md` (2,7 KB) - Instrucoes da skill interna "frontend design".
+        - `.agents\skills\baoyu-design\built-in-skills\gemini-image.md` (609 B) - Instrucoes da skill interna "gemini image".
+        - `.agents\skills\baoyu-design\built-in-skills\generate-images.md` (6,5 KB) - Instrucoes da skill interna "generate images".
+        - `.agents\skills\baoyu-design\built-in-skills\google-slides-safe.md` (830 B) - Instrucoes da skill interna "google slides safe".
+        - `.agents\skills\baoyu-design\built-in-skills\handoff-to-claude-code.md` (4,1 KB) - Instrucoes da skill interna "handoff to claude code".
+        - `.agents\skills\baoyu-design\built-in-skills\hi-fi-design.md` (3,3 KB) - Instrucoes da skill interna "hi fi design".
+        - `.agents\skills\baoyu-design\built-in-skills\html-email.md` (2,6 KB) - Instrucoes da skill interna "html email".
+        - `.agents\skills\baoyu-design\built-in-skills\import-from-figma.md` (10,7 KB) - Instrucoes da skill interna "import from figma".
+        - `.agents\skills\baoyu-design\built-in-skills\import-from-github.md` (2,5 KB) - Instrucoes da skill interna "import from github".
+        - `.agents\skills\baoyu-design\built-in-skills\import-from-html.md` (2,1 KB) - Instrucoes da skill interna "import from html".
+        - `.agents\skills\baoyu-design\built-in-skills\interactive-prototype.md` (428 B) - Instrucoes da skill interna "interactive prototype".
+        - `.agents\skills\baoyu-design\built-in-skills\low-level-tweaks-api.md` (2,0 KB) - Instrucoes da skill interna "low level tweaks api".
+        - `.agents\skills\baoyu-design\built-in-skills\make-a-deck.md` (22,5 KB) - Instrucoes da skill interna "make a deck".
+        - `.agents\skills\baoyu-design\built-in-skills\make-a-doc.md` (2,6 KB) - Instrucoes da skill interna "make a doc".
+        - `.agents\skills\baoyu-design\built-in-skills\make-tweakable.md` (374 B) - Instrucoes da skill interna "make tweakable".
+        - `.agents\skills\baoyu-design\built-in-skills\maps-geography.md` (2,8 KB) - Instrucoes da skill interna "maps geography".
+        - `.agents\skills\baoyu-design\built-in-skills\mobile-prototype.md` (3,4 KB) - Instrucoes da skill interna "mobile prototype".
+        - `.agents\skills\baoyu-design\built-in-skills\options-stack.md` (1,1 KB) - Instrucoes da skill interna "options stack".
+        - `.agents\skills\baoyu-design\built-in-skills\read-pdf.md` (879 B) - Instrucoes da skill interna "read pdf".
+        - `.agents\skills\baoyu-design\built-in-skills\save-as-pdf.md` (4,9 KB) - Instrucoes da skill interna "save as pdf".
+        - `.agents\skills\baoyu-design\built-in-skills\save-as-standalone-html.md` (5,8 KB) - Instrucoes da skill interna "save as standalone html".
+        - `.agents\skills\baoyu-design\built-in-skills\send-to-canva.md` (3,6 KB) - Instrucoes da skill interna "send to canva".
+        - `.agents\skills\baoyu-design\built-in-skills\send-to-figma.md` (1,8 KB) - Instrucoes da skill interna "send to figma".
+        - `.agents\skills\baoyu-design\built-in-skills\social-media-content.md` (10,6 KB) - Instrucoes da skill interna "social media content".
+        - `.agents\skills\baoyu-design\built-in-skills\something-cool.md` (1019 B) - Instrucoes da skill interna "something cool".
+        - `.agents\skills\baoyu-design\built-in-skills\sound-effects.md` (604 B) - Instrucoes da skill interna "sound effects".
+        - `.agents\skills\baoyu-design\built-in-skills\speaker-notes.md` (1,5 KB) - Instrucoes da skill interna "speaker notes".
+        - `.agents\skills\baoyu-design\built-in-skills\trifold-brochure.md` (2,7 KB) - Instrucoes da skill interna "trifold brochure".
+        - `.agents\skills\baoyu-design\built-in-skills\tweaks-protocol.md` (2,2 KB) - Instrucoes da skill interna "tweaks protocol".
+        - `.agents\skills\baoyu-design\built-in-skills\use-design-system.md` (18,4 KB) - Instrucoes da skill interna "use design system".
+        - `.agents\skills\baoyu-design\built-in-skills\watercolor-illustration.md` (10,3 KB) - Instrucoes da skill interna "watercolor illustration".
+        - `.agents\skills\baoyu-design\built-in-skills\web-research.md` (2,0 KB) - Instrucoes da skill interna "web research".
+        - `.agents\skills\baoyu-design\built-in-skills\website-landing-page.md` (3,8 KB) - Instrucoes da skill interna "website landing page".
+        - `.agents\skills\baoyu-design\built-in-skills\wireframe.md` (852 B) - Instrucoes da skill interna "wireframe".
+      - `.agents\skills\baoyu-design\project-types.json` (2,1 KB) - Configuracao JSON com tipos de projeto reconhecidos pela skill.
+        - `.agents\skills\baoyu-design\references\claude.md` (16,9 KB) - Arquivo de referencia ou sincronizacao usado pela skill.
+        - `.agents\skills\baoyu-design\references\codex.md` (7,2 KB) - Arquivo de referencia ou sincronizacao usado pela skill.
+        - `.agents\skills\baoyu-design\references\cursor.md` (10,8 KB) - Arquivo de referencia ou sincronizacao usado pela skill.
+          - `.agents\skills\baoyu-design\references\upstream-sync\apply-report.json` (18,1 KB) - Arquivo de referencia ou sincronizacao usado pela skill.
+          - `.agents\skills\baoyu-design\references\upstream-sync\built-in-skills.json` (218,9 KB) - Arquivo de referencia ou sincronizacao usado pela skill.
+          - `.agents\skills\baoyu-design\references\upstream-sync\provenance.json` (1,3 KB) - Arquivo de referencia ou sincronizacao usado pela skill.
+          - `.agents\skills\baoyu-design\references\upstream-sync\starter-components.json` (16,1 KB) - Arquivo de referencia ou sincronizacao usado pela skill.
+        - `.agents\skills\baoyu-design\references\upstream-system-prompt.md` (29,9 KB) - Arquivo de referencia ou sincronizacao usado pela skill.
+      - `.agents\skills\baoyu-design\SKILL.md` (10,5 KB) - Define uma skill local, com instrucoes de uso e comportamento esperado.
+        - `.agents\skills\baoyu-design\starter-components\android-frame.jsx` (10,1 KB) - Componente inicial reutilizavel: android frame.
+        - `.agents\skills\baoyu-design\starter-components\anim-demo.html` (8,0 KB) - Componente inicial reutilizavel: anim demo.
+        - `.agents\skills\baoyu-design\starter-components\animations-v2.jsx` (60,9 KB) - Componente inicial reutilizavel: animations v2.
+        - `.agents\skills\baoyu-design\starter-components\animations-v3.jsx` (43,6 KB) - Componente inicial reutilizavel: animations v3.
+        - `.agents\skills\baoyu-design\starter-components\animations.jsx` (24,8 KB) - Componente inicial reutilizavel: animations.
+        - `.agents\skills\baoyu-design\starter-components\browser-window.jsx` (4,5 KB) - Componente inicial reutilizavel: browser window.
+        - `.agents\skills\baoyu-design\starter-components\chart-stage.js` (22,8 KB) - Componente inicial reutilizavel: chart stage.
+        - `.agents\skills\baoyu-design\starter-components\chrome-shell.js` (10,1 KB) - Componente inicial reutilizavel: chrome shell.
+        - `.agents\skills\baoyu-design\starter-components\data-overlay.js` (96,2 KB) - Componente inicial reutilizavel: data overlay.
+        - `.agents\skills\baoyu-design\starter-components\deck-stage-patch.md` (62,3 KB) - Componente inicial reutilizavel: deck stage patch.
+        - `.agents\skills\baoyu-design\starter-components\deck-stage.js` (178,0 KB) - Componente inicial reutilizavel: deck stage.
+        - `.agents\skills\baoyu-design\starter-components\design-canvas.jsx` (53,0 KB) - Componente inicial reutilizavel: design canvas.
+        - `.agents\skills\baoyu-design\starter-components\doc-page.js` (36,8 KB) - Componente inicial reutilizavel: doc page.
+        - `.agents\skills\baoyu-design\starter-components\facebook-shell.js` (15,4 KB) - Componente inicial reutilizavel: facebook shell.
+        - `.agents\skills\baoyu-design\starter-components\file-window.js` (37,7 KB) - Componente inicial reutilizavel: file window.
+        - `.agents\skills\baoyu-design\starter-components\image-slot.js` (64,8 KB) - Componente inicial reutilizavel: image slot.
+        - `.agents\skills\baoyu-design\starter-components\instagram-shell.js` (15,9 KB) - Componente inicial reutilizavel: instagram shell.
+        - `.agents\skills\baoyu-design\starter-components\instagram-story.js` (14,1 KB) - Componente inicial reutilizavel: instagram story.
+        - `.agents\skills\baoyu-design\starter-components\ios-frame.jsx` (16,2 KB) - Componente inicial reutilizavel: ios frame.
+        - `.agents\skills\baoyu-design\starter-components\ios-shell.js` (12,6 KB) - Componente inicial reutilizavel: ios shell.
+        - `.agents\skills\baoyu-design\starter-components\linkedin-shell.js` (14,2 KB) - Componente inicial reutilizavel: linkedin shell.
+        - `.agents\skills\baoyu-design\starter-components\macos-window.jsx` (8,6 KB) - Componente inicial reutilizavel: macos window.
+        - `.agents\skills\baoyu-design\starter-components\pinterest-shell.js` (12,2 KB) - Componente inicial reutilizavel: pinterest shell.
+        - `.agents\skills\baoyu-design\starter-components\post-card.js` (9,5 KB) - Componente inicial reutilizavel: post card.
+        - `.agents\skills\baoyu-design\starter-components\reddit-shell.js` (13,1 KB) - Componente inicial reutilizavel: reddit shell.
+        - `.agents\skills\baoyu-design\starter-components\social-frames.js` (10,0 KB) - Componente inicial reutilizavel: social frames.
+        - `.agents\skills\baoyu-design\starter-components\three-d-stage.js` (16,4 KB) - Componente inicial reutilizavel: three d stage.
+        - `.agents\skills\baoyu-design\starter-components\tiktok-shell.js` (19,0 KB) - Componente inicial reutilizavel: tiktok shell.
+        - `.agents\skills\baoyu-design\starter-components\tweaks-panel.jsx` (35,4 KB) - Componente inicial reutilizavel: tweaks panel.
+        - `.agents\skills\baoyu-design\starter-components\x-shell.js` (13,9 KB) - Componente inicial reutilizavel: x shell.
+        - `.agents\skills\baoyu-design\starter-components\youtube-shell.js` (13,4 KB) - Componente inicial reutilizavel: youtube shell.
+      - `.agents\skills\baoyu-design\system-prompt.md` (45,4 KB) - Prompt de sistema usado para orientar uma skill/agente.
+      - `.agents\skills\release-skills\SKILL.md` (20,3 KB) - Define uma skill local, com instrucoes de uso e comportamento esperado.
+          - `.claude\skills\baoyu-design\agents\assets\vision-probe.png` (263 B) - Ativo visual usado em testes/sondagem de renderizacao.
+        - `.claude\skills\baoyu-design\agents\build-preview.mjs` (66,4 KB) - Script Node auxiliar usado por uma skill/agente.
+        - `.claude\skills\baoyu-design\agents\check-design-system.mjs` (4,4 KB) - Script Node auxiliar usado por uma skill/agente.
+        - `.claude\skills\baoyu-design\agents\compile-design-system.mjs` (14,9 KB) - Script Node auxiliar usado por uma skill/agente.
+        - `.claude\skills\baoyu-design\agents\design-system-checker.md` (2,0 KB) - Instrucoes documentais para agente auxiliar.
+        - `.claude\skills\baoyu-design\agents\fork-verifier-agent.md` (4,0 KB) - Instrucoes documentais para agente auxiliar.
+          - `.claude\skills\baoyu-design\agents\gen-pptx\.gitignore` (22 B) - Define arquivos ignorados pelo Git nesta subpasta.
+          - `.claude\skills\baoyu-design\agents\gen-pptx\package-lock.json` (21,2 KB) - Trava versoes das dependencias do gerador PPTX.
+          - `.claude\skills\baoyu-design\agents\gen-pptx\package.json` (1,2 KB) - Configura scripts e dependencias do gerador PPTX.
+              - `.claude\skills\baoyu-design\agents\gen-pptx\src\browser\capture-editable.ts` (14,4 KB) - Codigo executado/capturado no navegador para exportacao PPTX.
+              - `.claude\skills\baoyu-design\agents\gen-pptx\src\browser\capture-screenshot.ts` (802 B) - Codigo executado/capturado no navegador para exportacao PPTX.
+              - `.claude\skills\baoyu-design\agents\gen-pptx\src\browser\dom-style.ts` (4,9 KB) - Codigo executado/capturado no navegador para exportacao PPTX.
+              - `.claude\skills\baoyu-design\agents\gen-pptx\src\browser\entry.ts` (1,1 KB) - Codigo executado/capturado no navegador para exportacao PPTX.
+              - `.claude\skills\baoyu-design\agents\gen-pptx\src\browser\gradient.ts` (9,3 KB) - Codigo executado/capturado no navegador para exportacao PPTX.
+              - `.claude\skills\baoyu-design\agents\gen-pptx\src\browser\media-browser.ts` (6,8 KB) - Codigo executado/capturado no navegador para exportacao PPTX.
+              - `.claude\skills\baoyu-design\agents\gen-pptx\src\browser\setup.ts` (9,7 KB) - Codigo executado/capturado no navegador para exportacao PPTX.
+            - `.claude\skills\baoyu-design\agents\gen-pptx\src\cli.ts` (4,3 KB) - Entrada de linha de comando do gerador PPTX.
+              - `.claude\skills\baoyu-design\agents\gen-pptx\src\core\anim.ts` (14,1 KB) - Utilitario central do gerador PPTX.
+              - `.claude\skills\baoyu-design\agents\gen-pptx\src\core\color.ts` (2,3 KB) - Utilitario central do gerador PPTX.
+              - `.claude\skills\baoyu-design\agents\gen-pptx\src\core\css.ts` (7,2 KB) - Utilitario central do gerador PPTX.
+              - `.claude\skills\baoyu-design\agents\gen-pptx\src\core\filename.ts` (530 B) - Utilitario central do gerador PPTX.
+              - `.claude\skills\baoyu-design\agents\gen-pptx\src\core\fonts.ts` (1,2 KB) - Utilitario central do gerador PPTX.
+              - `.claude\skills\baoyu-design\agents\gen-pptx\src\core\sanitize.ts` (527 B) - Utilitario central do gerador PPTX.
+              - `.claude\skills\baoyu-design\agents\gen-pptx\src\core\units.ts` (597 B) - Utilitario central do gerador PPTX.
+            - `.claude\skills\baoyu-design\agents\gen-pptx\src\index.ts` (391 B) - Ponto de exportacao principal do modulo gen-pptx.
+              - `.claude\skills\baoyu-design\agents\gen-pptx\src\orchestrator\driver.ts` (2,2 KB) - Coordena etapas de execucao do gerador PPTX.
+              - `.claude\skills\baoyu-design\agents\gen-pptx\src\orchestrator\errors.ts` (1,1 KB) - Coordena etapas de execucao do gerador PPTX.
+              - `.claude\skills\baoyu-design\agents\gen-pptx\src\orchestrator\inject.ts` (3,3 KB) - Coordena etapas de execucao do gerador PPTX.
+              - `.claude\skills\baoyu-design\agents\gen-pptx\src\orchestrator\output.ts` (672 B) - Coordena etapas de execucao do gerador PPTX.
+              - `.claude\skills\baoyu-design\agents\gen-pptx\src\orchestrator\run.ts` (6,3 KB) - Coordena etapas de execucao do gerador PPTX.
+              - `.claude\skills\baoyu-design\agents\gen-pptx\src\render\build-editable.ts` (3,9 KB) - Renderiza conteudo capturado em slides PPTX.
+              - `.claude\skills\baoyu-design\agents\gen-pptx\src\render\build-screenshot.ts` (1,5 KB) - Renderiza conteudo capturado em slides PPTX.
+              - `.claude\skills\baoyu-design\agents\gen-pptx\src\render\context.ts` (3,0 KB) - Renderiza conteudo capturado em slides PPTX.
+              - `.claude\skills\baoyu-design\agents\gen-pptx\src\render\list.ts` (2,5 KB) - Renderiza conteudo capturado em slides PPTX.
+              - `.claude\skills\baoyu-design\agents\gen-pptx\src\render\media-cache.ts` (3,0 KB) - Renderiza conteudo capturado em slides PPTX.
+              - `.claude\skills\baoyu-design\agents\gen-pptx\src\render\render-node.ts` (21,4 KB) - Renderiza conteudo capturado em slides PPTX.
+              - `.claude\skills\baoyu-design\agents\gen-pptx\src\render\text-runs.ts` (10,2 KB) - Renderiza conteudo capturado em slides PPTX.
+              - `.claude\skills\baoyu-design\agents\gen-pptx\src\render\timing.ts` (26,6 KB) - Renderiza conteudo capturado em slides PPTX.
+            - `.claude\skills\baoyu-design\agents\gen-pptx\src\types.ts` (5,9 KB) - Tipos TypeScript compartilhados do gerador PPTX.
+              - `.claude\skills\baoyu-design\agents\gen-pptx\src\validate\validate.ts` (5,9 KB) - Valida entradas/configuracoes do gerador PPTX.
+            - `.claude\skills\baoyu-design\agents\gen-pptx\test\anim-render.test.ts` (3,0 KB) - Teste automatizado do gerador PPTX.
+            - `.claude\skills\baoyu-design\agents\gen-pptx\test\anim.test.ts` (13,1 KB) - Teste automatizado do gerador PPTX.
+            - `.claude\skills\baoyu-design\agents\gen-pptx\test\core.test.ts` (8,5 KB) - Teste automatizado do gerador PPTX.
+            - `.claude\skills\baoyu-design\agents\gen-pptx\test\gradient.test.ts` (3,0 KB) - Teste automatizado do gerador PPTX.
+            - `.claude\skills\baoyu-design\agents\gen-pptx\test\timing.test.ts` (26,3 KB) - Teste automatizado do gerador PPTX.
+            - `.claude\skills\baoyu-design\agents\gen-pptx\test\vendor.test.ts` (5,5 KB) - Teste automatizado do gerador PPTX.
+          - `.claude\skills\baoyu-design\agents\gen-pptx\tsconfig.json` (514 B) - Configura compilacao TypeScript do gerador PPTX.
+                - `.claude\skills\baoyu-design\agents\gen-pptx\vendor\pptxgenjs\libs\jszip.min.js` (95,4 KB) - Codigo/dependencia vendorizada usada na geracao PPTX.
+                - `.claude\skills\baoyu-design\agents\gen-pptx\vendor\pptxgenjs\libs\polyfill.min.js` (97,0 KB) - Codigo/dependencia vendorizada usada na geracao PPTX.
+              - `.claude\skills\baoyu-design\agents\gen-pptx\vendor\pptxgenjs\LICENSE` (1,1 KB) - Codigo/dependencia vendorizada usada na geracao PPTX.
+              - `.claude\skills\baoyu-design\agents\gen-pptx\vendor\pptxgenjs\package.json` (288 B) - Codigo/dependencia vendorizada usada na geracao PPTX.
+                - `.claude\skills\baoyu-design\agents\gen-pptx\vendor\pptxgenjs\src\core-enums.ts` (97,3 KB) - Codigo/dependencia vendorizada usada na geracao PPTX.
+                - `.claude\skills\baoyu-design\agents\gen-pptx\vendor\pptxgenjs\src\core-interfaces.ts` (48,2 KB) - Codigo/dependencia vendorizada usada na geracao PPTX.
+                - `.claude\skills\baoyu-design\agents\gen-pptx\vendor\pptxgenjs\src\gen-charts.ts` (101,4 KB) - Codigo/dependencia vendorizada usada na geracao PPTX.
+                - `.claude\skills\baoyu-design\agents\gen-pptx\vendor\pptxgenjs\src\gen-media.ts` (7,7 KB) - Codigo/dependencia vendorizada usada na geracao PPTX.
+                - `.claude\skills\baoyu-design\agents\gen-pptx\vendor\pptxgenjs\src\gen-objects.ts` (55,7 KB) - Codigo/dependencia vendorizada usada na geracao PPTX.
+                - `.claude\skills\baoyu-design\agents\gen-pptx\vendor\pptxgenjs\src\gen-tables.ts` (37,0 KB) - Codigo/dependencia vendorizada usada na geracao PPTX.
+                - `.claude\skills\baoyu-design\agents\gen-pptx\vendor\pptxgenjs\src\gen-utils.ts` (10,1 KB) - Codigo/dependencia vendorizada usada na geracao PPTX.
+                - `.claude\skills\baoyu-design\agents\gen-pptx\vendor\pptxgenjs\src\gen-xml.ts` (116,9 KB) - Codigo/dependencia vendorizada usada na geracao PPTX.
+                - `.claude\skills\baoyu-design\agents\gen-pptx\vendor\pptxgenjs\src\pptxgen.ts` (26,9 KB) - Codigo/dependencia vendorizada usada na geracao PPTX.
+                - `.claude\skills\baoyu-design\agents\gen-pptx\vendor\pptxgenjs\src\slide.ts` (7,4 KB) - Codigo/dependencia vendorizada usada na geracao PPTX.
+                - `.claude\skills\baoyu-design\agents\gen-pptx\vendor\pptxgenjs\types\index.d.ts` (74,1 KB) - Codigo/dependencia vendorizada usada na geracao PPTX.
+              - `.claude\skills\baoyu-design\agents\gen-pptx\vendor\pptxgenjs\VENDOR.md` (4,0 KB) - Codigo/dependencia vendorizada usada na geracao PPTX.
+          - `.claude\skills\baoyu-design\agents\gen-video\.gitignore` (22 B) - Define arquivos ignorados pelo Git nesta subpasta.
+          - `.claude\skills\baoyu-design\agents\gen-video\package-lock.json` (16,8 KB) - Trava versoes das dependencias do gerador de video.
+          - `.claude\skills\baoyu-design\agents\gen-video\package.json` (802 B) - Configura scripts e dependencias do gerador de video.
+            - `.claude\skills\baoyu-design\agents\gen-video\src\cli.ts` (5,2 KB) - Entrada de linha de comando do gerador de video.
+              - `.claude\skills\baoyu-design\agents\gen-video\src\orchestrator\driver.ts` (2,6 KB) - Coordena etapas de execucao e exportacao de video.
+              - `.claude\skills\baoyu-design\agents\gen-video\src\orchestrator\encode.ts` (3,0 KB) - Coordena etapas de execucao e exportacao de video.
+              - `.claude\skills\baoyu-design\agents\gen-video\src\orchestrator\errors.ts` (970 B) - Coordena etapas de execucao e exportacao de video.
+              - `.claude\skills\baoyu-design\agents\gen-video\src\orchestrator\filename.ts` (530 B) - Coordena etapas de execucao e exportacao de video.
+              - `.claude\skills\baoyu-design\agents\gen-video\src\orchestrator\output.ts` (782 B) - Coordena etapas de execucao e exportacao de video.
+              - `.claude\skills\baoyu-design\agents\gen-video\src\orchestrator\run.ts` (7,5 KB) - Coordena etapas de execucao e exportacao de video.
+            - `.claude\skills\baoyu-design\agents\gen-video\src\types.ts` (1,9 KB) - Tipos TypeScript compartilhados do gerador de video.
+              - `.claude\skills\baoyu-design\agents\gen-video\src\validate\validate.ts` (2,2 KB) - Valida entradas/configuracoes do gerador de video.
+            - `.claude\skills\baoyu-design\agents\gen-video\test\core.test.ts` (4,1 KB) - Teste automatizado do gerador de video.
+          - `.claude\skills\baoyu-design\agents\gen-video\tsconfig.json` (430 B) - Configura compilacao TypeScript do gerador de video.
+        - `.claude\skills\baoyu-design\agents\import-design-system.mjs` (11,0 KB) - Script Node auxiliar usado por uma skill/agente.
+        - `.claude\skills\baoyu-design\agents\import-figma.mjs` (32,5 KB) - Script Node auxiliar usado por uma skill/agente.
+          - `.claude\skills\baoyu-design\agents\lib\asset-store.mjs` (6,9 KB) - Script Node auxiliar usado por uma skill/agente.
+          - `.claude\skills\baoyu-design\agents\lib\ds-core.mjs` (28,2 KB) - Script Node auxiliar usado por uma skill/agente.
+          - `.claude\skills\baoyu-design\agents\lib\ds-prompt.mjs` (12,8 KB) - Script Node auxiliar usado por uma skill/agente.
+        - `.claude\skills\baoyu-design\agents\record-asset.mjs` (7,6 KB) - Script Node auxiliar usado por uma skill/agente.
+          - `.claude\skills\baoyu-design\agents\tests\asset-store.test.mjs` (5,1 KB) - Teste automatizado do modulo/agente correspondente.
+          - `.claude\skills\baoyu-design\agents\tests\build-preview.test.mjs` (1,5 KB) - Teste automatizado do modulo/agente correspondente.
+          - `.claude\skills\baoyu-design\agents\tests\check-design-system.test.mjs` (2,4 KB) - Teste automatizado do modulo/agente correspondente.
+          - `.claude\skills\baoyu-design\agents\tests\compile-design-system.test.mjs` (4,1 KB) - Teste automatizado do modulo/agente correspondente.
+          - `.claude\skills\baoyu-design\agents\tests\ds-core.test.mjs` (10,9 KB) - Teste automatizado do modulo/agente correspondente.
+          - `.claude\skills\baoyu-design\agents\tests\ds-prompt.test.mjs` (5,1 KB) - Teste automatizado do modulo/agente correspondente.
+            - `.claude\skills\baoyu-design\agents\tests\fixtures\minimal.fig` (528 B) - Fixture de teste usada pelos agentes.
+          - `.claude\skills\baoyu-design\agents\tests\helpers.mjs` (4,5 KB) - Funcoes auxiliares usadas pelos testes.
+          - `.claude\skills\baoyu-design\agents\tests\import-design-system.test.mjs` (4,5 KB) - Teste automatizado do modulo/agente correspondente.
+          - `.claude\skills\baoyu-design\agents\tests\import-figma.test.mjs` (3,9 KB) - Teste automatizado do modulo/agente correspondente.
+          - `.claude\skills\baoyu-design\agents\tests\project-types.test.mjs` (5,8 KB) - Teste automatizado do modulo/agente correspondente.
+          - `.claude\skills\baoyu-design\agents\tests\record-asset.test.mjs` (3,7 KB) - Teste automatizado do modulo/agente correspondente.
+          - `.claude\skills\baoyu-design\agents\tests\vision-probe-docs.test.mjs` (2,8 KB) - Teste automatizado do modulo/agente correspondente.
+          - `.claude\skills\baoyu-design\agents\vendor\babel.min.js` (2,99 MB) - Dependencia vendorizada usada pelos scripts/agentes locais.
+          - `.claude\skills\baoyu-design\agents\vendor\fflate.mjs` (31,4 KB) - Dependencia vendorizada usada pelos scripts/agentes locais.
+          - `.claude\skills\baoyu-design\agents\vendor\fig-materialize.mjs` (316,7 KB) - Dependencia vendorizada usada pelos scripts/agentes locais.
+          - `.claude\skills\baoyu-design\agents\vendor\react-18.3.1.production.min.js` (10,5 KB) - Dependencia vendorizada usada pelos scripts/agentes locais.
+          - `.claude\skills\baoyu-design\agents\vendor\react-dom-18.3.1.production.min.js` (129,0 KB) - Dependencia vendorizada usada pelos scripts/agentes locais.
+        - `.claude\skills\baoyu-design\agents\vision-probe-agent.md` (1,3 KB) - Instrucoes documentais para agente auxiliar.
+        - `.claude\skills\baoyu-design\built-in-skills\3d-object.md` (4,3 KB) - Instrucoes da skill interna "3d object".
+        - `.claude\skills\baoyu-design\built-in-skills\animated-video.md` (10,5 KB) - Instrucoes da skill interna "animated video".
+        - `.claude\skills\baoyu-design\built-in-skills\ask-the-user.md` (17,4 KB) - Instrucoes da skill interna "ask the user".
+        - `.claude\skills\baoyu-design\built-in-skills\claude-api-in-prototypes.md` (1,1 KB) - Instrucoes da skill interna "claude api in prototypes".
+        - `.claude\skills\baoyu-design\built-in-skills\create-design-system.md` (18,7 KB) - Instrucoes da skill interna "create design system".
+        - `.claude\skills\baoyu-design\built-in-skills\data-science.md` (21,6 KB) - Instrucoes da skill interna "data science".
+        - `.claude\skills\baoyu-design\built-in-skills\data-visualization.md` (9,5 KB) - Instrucoes da skill interna "data visualization".
+        - `.claude\skills\baoyu-design\built-in-skills\design-components.md` (3,3 KB) - Instrucoes da skill interna "design components".
+        - `.claude\skills\baoyu-design\built-in-skills\design-feedback.md` (6,1 KB) - Instrucoes da skill interna "design feedback".
+        - `.claude\skills\baoyu-design\built-in-skills\design-system-authoring-guide.md` (22,0 KB) - Instrucoes da skill interna "design system authoring guide".
+        - `.claude\skills\baoyu-design\built-in-skills\design-system-preview.md` (5,9 KB) - Instrucoes da skill interna "design system preview".
+        - `.claude\skills\baoyu-design\built-in-skills\experiment-workflow.md` (11,4 KB) - Instrucoes da skill interna "experiment workflow".
+        - `.claude\skills\baoyu-design\built-in-skills\export-as-pptx-editable.md` (9,9 KB) - Instrucoes da skill interna "export as pptx editable".
+        - `.claude\skills\baoyu-design\built-in-skills\export-as-pptx-screenshots.md` (3,0 KB) - Instrucoes da skill interna "export as pptx screenshots".
+        - `.claude\skills\baoyu-design\built-in-skills\export-as-video.md` (6,0 KB) - Instrucoes da skill interna "export as video".
+        - `.claude\skills\baoyu-design\built-in-skills\export-pptx-editable.md` (6,0 KB) - Instrucoes da skill interna "export pptx editable".
+        - `.claude\skills\baoyu-design\built-in-skills\export-pptx-screenshots.md` (1,9 KB) - Instrucoes da skill interna "export pptx screenshots".
+        - `.claude\skills\baoyu-design\built-in-skills\exportable-video.md` (2,3 KB) - Instrucoes da skill interna "exportable video".
+        - `.claude\skills\baoyu-design\built-in-skills\flier.md` (2,1 KB) - Instrucoes da skill interna "flier".
+        - `.claude\skills\baoyu-design\built-in-skills\frontend-design.md` (2,7 KB) - Instrucoes da skill interna "frontend design".
+        - `.claude\skills\baoyu-design\built-in-skills\gemini-image.md` (609 B) - Instrucoes da skill interna "gemini image".
+        - `.claude\skills\baoyu-design\built-in-skills\generate-images.md` (6,5 KB) - Instrucoes da skill interna "generate images".
+        - `.claude\skills\baoyu-design\built-in-skills\google-slides-safe.md` (830 B) - Instrucoes da skill interna "google slides safe".
+        - `.claude\skills\baoyu-design\built-in-skills\handoff-to-claude-code.md` (4,1 KB) - Instrucoes da skill interna "handoff to claude code".
+        - `.claude\skills\baoyu-design\built-in-skills\hi-fi-design.md` (3,3 KB) - Instrucoes da skill interna "hi fi design".
+        - `.claude\skills\baoyu-design\built-in-skills\html-email.md` (2,6 KB) - Instrucoes da skill interna "html email".
+        - `.claude\skills\baoyu-design\built-in-skills\import-from-figma.md` (10,7 KB) - Instrucoes da skill interna "import from figma".
+        - `.claude\skills\baoyu-design\built-in-skills\import-from-github.md` (2,5 KB) - Instrucoes da skill interna "import from github".
+        - `.claude\skills\baoyu-design\built-in-skills\import-from-html.md` (2,1 KB) - Instrucoes da skill interna "import from html".
+        - `.claude\skills\baoyu-design\built-in-skills\interactive-prototype.md` (428 B) - Instrucoes da skill interna "interactive prototype".
+        - `.claude\skills\baoyu-design\built-in-skills\low-level-tweaks-api.md` (2,0 KB) - Instrucoes da skill interna "low level tweaks api".
+        - `.claude\skills\baoyu-design\built-in-skills\make-a-deck.md` (22,5 KB) - Instrucoes da skill interna "make a deck".
+        - `.claude\skills\baoyu-design\built-in-skills\make-a-doc.md` (2,6 KB) - Instrucoes da skill interna "make a doc".
+        - `.claude\skills\baoyu-design\built-in-skills\make-tweakable.md` (374 B) - Instrucoes da skill interna "make tweakable".
+        - `.claude\skills\baoyu-design\built-in-skills\maps-geography.md` (2,8 KB) - Instrucoes da skill interna "maps geography".
+        - `.claude\skills\baoyu-design\built-in-skills\mobile-prototype.md` (3,4 KB) - Instrucoes da skill interna "mobile prototype".
+        - `.claude\skills\baoyu-design\built-in-skills\options-stack.md` (1,1 KB) - Instrucoes da skill interna "options stack".
+        - `.claude\skills\baoyu-design\built-in-skills\read-pdf.md` (879 B) - Instrucoes da skill interna "read pdf".
+        - `.claude\skills\baoyu-design\built-in-skills\save-as-pdf.md` (4,9 KB) - Instrucoes da skill interna "save as pdf".
+        - `.claude\skills\baoyu-design\built-in-skills\save-as-standalone-html.md` (5,8 KB) - Instrucoes da skill interna "save as standalone html".
+        - `.claude\skills\baoyu-design\built-in-skills\send-to-canva.md` (3,6 KB) - Instrucoes da skill interna "send to canva".
+        - `.claude\skills\baoyu-design\built-in-skills\send-to-figma.md` (1,8 KB) - Instrucoes da skill interna "send to figma".
+        - `.claude\skills\baoyu-design\built-in-skills\social-media-content.md` (10,6 KB) - Instrucoes da skill interna "social media content".
+        - `.claude\skills\baoyu-design\built-in-skills\something-cool.md` (1019 B) - Instrucoes da skill interna "something cool".
+        - `.claude\skills\baoyu-design\built-in-skills\sound-effects.md` (604 B) - Instrucoes da skill interna "sound effects".
+        - `.claude\skills\baoyu-design\built-in-skills\speaker-notes.md` (1,5 KB) - Instrucoes da skill interna "speaker notes".
+        - `.claude\skills\baoyu-design\built-in-skills\trifold-brochure.md` (2,7 KB) - Instrucoes da skill interna "trifold brochure".
+        - `.claude\skills\baoyu-design\built-in-skills\tweaks-protocol.md` (2,2 KB) - Instrucoes da skill interna "tweaks protocol".
+        - `.claude\skills\baoyu-design\built-in-skills\use-design-system.md` (18,4 KB) - Instrucoes da skill interna "use design system".
+        - `.claude\skills\baoyu-design\built-in-skills\watercolor-illustration.md` (10,3 KB) - Instrucoes da skill interna "watercolor illustration".
+        - `.claude\skills\baoyu-design\built-in-skills\web-research.md` (2,0 KB) - Instrucoes da skill interna "web research".
+        - `.claude\skills\baoyu-design\built-in-skills\website-landing-page.md` (3,8 KB) - Instrucoes da skill interna "website landing page".
+        - `.claude\skills\baoyu-design\built-in-skills\wireframe.md` (852 B) - Instrucoes da skill interna "wireframe".
+      - `.claude\skills\baoyu-design\project-types.json` (2,1 KB) - Configuracao JSON com tipos de projeto reconhecidos pela skill.
+        - `.claude\skills\baoyu-design\references\claude.md` (16,9 KB) - Arquivo de referencia ou sincronizacao usado pela skill.
+        - `.claude\skills\baoyu-design\references\codex.md` (7,2 KB) - Arquivo de referencia ou sincronizacao usado pela skill.
+        - `.claude\skills\baoyu-design\references\cursor.md` (10,8 KB) - Arquivo de referencia ou sincronizacao usado pela skill.
+          - `.claude\skills\baoyu-design\references\upstream-sync\apply-report.json` (18,1 KB) - Arquivo de referencia ou sincronizacao usado pela skill.
+          - `.claude\skills\baoyu-design\references\upstream-sync\built-in-skills.json` (218,9 KB) - Arquivo de referencia ou sincronizacao usado pela skill.
+          - `.claude\skills\baoyu-design\references\upstream-sync\provenance.json` (1,3 KB) - Arquivo de referencia ou sincronizacao usado pela skill.
+          - `.claude\skills\baoyu-design\references\upstream-sync\starter-components.json` (16,1 KB) - Arquivo de referencia ou sincronizacao usado pela skill.
+        - `.claude\skills\baoyu-design\references\upstream-system-prompt.md` (29,9 KB) - Arquivo de referencia ou sincronizacao usado pela skill.
+      - `.claude\skills\baoyu-design\SKILL.md` (10,5 KB) - Define uma skill local, com instrucoes de uso e comportamento esperado.
+        - `.claude\skills\baoyu-design\starter-components\android-frame.jsx` (10,1 KB) - Componente inicial reutilizavel: android frame.
+        - `.claude\skills\baoyu-design\starter-components\anim-demo.html` (8,0 KB) - Componente inicial reutilizavel: anim demo.
+        - `.claude\skills\baoyu-design\starter-components\animations-v2.jsx` (60,9 KB) - Componente inicial reutilizavel: animations v2.
+        - `.claude\skills\baoyu-design\starter-components\animations-v3.jsx` (43,6 KB) - Componente inicial reutilizavel: animations v3.
+        - `.claude\skills\baoyu-design\starter-components\animations.jsx` (24,8 KB) - Componente inicial reutilizavel: animations.
+        - `.claude\skills\baoyu-design\starter-components\browser-window.jsx` (4,5 KB) - Componente inicial reutilizavel: browser window.
+        - `.claude\skills\baoyu-design\starter-components\chart-stage.js` (22,8 KB) - Componente inicial reutilizavel: chart stage.
+        - `.claude\skills\baoyu-design\starter-components\chrome-shell.js` (10,1 KB) - Componente inicial reutilizavel: chrome shell.
+        - `.claude\skills\baoyu-design\starter-components\data-overlay.js` (96,2 KB) - Componente inicial reutilizavel: data overlay.
+        - `.claude\skills\baoyu-design\starter-components\deck-stage-patch.md` (62,3 KB) - Componente inicial reutilizavel: deck stage patch.
+        - `.claude\skills\baoyu-design\starter-components\deck-stage.js` (178,0 KB) - Componente inicial reutilizavel: deck stage.
+        - `.claude\skills\baoyu-design\starter-components\design-canvas.jsx` (53,0 KB) - Componente inicial reutilizavel: design canvas.
+        - `.claude\skills\baoyu-design\starter-components\doc-page.js` (36,8 KB) - Componente inicial reutilizavel: doc page.
+        - `.claude\skills\baoyu-design\starter-components\facebook-shell.js` (15,4 KB) - Componente inicial reutilizavel: facebook shell.
+        - `.claude\skills\baoyu-design\starter-components\file-window.js` (37,7 KB) - Componente inicial reutilizavel: file window.
+        - `.claude\skills\baoyu-design\starter-components\image-slot.js` (64,8 KB) - Componente inicial reutilizavel: image slot.
+        - `.claude\skills\baoyu-design\starter-components\instagram-shell.js` (15,9 KB) - Componente inicial reutilizavel: instagram shell.
+        - `.claude\skills\baoyu-design\starter-components\instagram-story.js` (14,1 KB) - Componente inicial reutilizavel: instagram story.
+        - `.claude\skills\baoyu-design\starter-components\ios-frame.jsx` (16,2 KB) - Componente inicial reutilizavel: ios frame.
+        - `.claude\skills\baoyu-design\starter-components\ios-shell.js` (12,6 KB) - Componente inicial reutilizavel: ios shell.
+        - `.claude\skills\baoyu-design\starter-components\linkedin-shell.js` (14,2 KB) - Componente inicial reutilizavel: linkedin shell.
+        - `.claude\skills\baoyu-design\starter-components\macos-window.jsx` (8,6 KB) - Componente inicial reutilizavel: macos window.
+        - `.claude\skills\baoyu-design\starter-components\pinterest-shell.js` (12,2 KB) - Componente inicial reutilizavel: pinterest shell.
+        - `.claude\skills\baoyu-design\starter-components\post-card.js` (9,5 KB) - Componente inicial reutilizavel: post card.
+        - `.claude\skills\baoyu-design\starter-components\reddit-shell.js` (13,1 KB) - Componente inicial reutilizavel: reddit shell.
+        - `.claude\skills\baoyu-design\starter-components\social-frames.js` (10,0 KB) - Componente inicial reutilizavel: social frames.
+        - `.claude\skills\baoyu-design\starter-components\three-d-stage.js` (16,4 KB) - Componente inicial reutilizavel: three d stage.
+        - `.claude\skills\baoyu-design\starter-components\tiktok-shell.js` (19,0 KB) - Componente inicial reutilizavel: tiktok shell.
+        - `.claude\skills\baoyu-design\starter-components\tweaks-panel.jsx` (35,4 KB) - Componente inicial reutilizavel: tweaks panel.
+        - `.claude\skills\baoyu-design\starter-components\x-shell.js` (13,9 KB) - Componente inicial reutilizavel: x shell.
+        - `.claude\skills\baoyu-design\starter-components\youtube-shell.js` (13,4 KB) - Componente inicial reutilizavel: youtube shell.
+      - `.claude\skills\baoyu-design\system-prompt.md` (45,4 KB) - Prompt de sistema usado para orientar uma skill/agente.
+      - `.claude\skills\release-skills\SKILL.md` (20,3 KB) - Define uma skill local, com instrucoes de uso e comportamento esperado.
+    - `art\final\README.md` (684 B) - Documento de orientacao sobre o uso desta pasta.
+    - `art\prompts\MASTER_PROMPT.md` (3,0 KB) - Prompt mestre para orientar a geracao das ilustracoes.
+    - `art\prompts\NEGATIVE_PROMPT.md` (2,6 KB) - Restricoes e elementos a evitar nas imagens geradas.
+    - `art\prompts\STYLE_PROMPT.md` (2,2 KB) - Define o estilo visual desejado para as ilustracoes.
+    - `art\prompts\VARIATION_RULES.md` (5,5 KB) - Regras para criar variacoes mantendo coerencia visual.
+    - `art\references\README.md` (3,2 KB) - Documento de orientacao sobre o uso desta pasta.
+    - `art\rejected\README.md` (721 B) - Documento de orientacao sobre o uso desta pasta.
+    - `art\selected\README.md` (490 B) - Documento de orientacao sobre o uso desta pasta.
+    - `art\style-tests\README.md` (1,6 KB) - Documento de orientacao sobre o uso desta pasta.
+    - `content\illustration-list\illustrations-master.md` (20,9 KB) - Lista mestre com planejamento e descricoes das ilustracoes.
+  - `docs\ART_DIRECTION.md` (10,8 KB) - Define direcao artistica, criterios visuais e intencao estetica.
+  - `docs\CHANGELOG.md` (2,5 KB) - Historico de alteracoes relevantes no projeto.
+  - `docs\ENVIRONMENT_DISCOVERY.md` (12,4 KB) - Documenta descoberta do ambiente, ferramentas e estrutura local.
+  - `docs\KDP_SPECIFICATIONS.md` (6,8 KB) - Consolida requisitos tecnicos para publicacao na Amazon KDP.
+  - `docs\PRODUCTION_PIPELINE.md` (8,8 KB) - Descreve o fluxo de producao do livro do conteudo ao arquivo final.
+  - `docs\PROJECT_BRIEF.md` (5,6 KB) - Briefing central com objetivo, publico, escopo e direcionamento.
+  - `docs\QUALITY_CONTROL.md` (9,1 KB) - Define criterios e procedimentos de controle de qualidade.
+  - `docs\STYLE_BIBLE.md` (11,8 KB) - Guia de estilo para manter consistencia visual e editorial.
+  - `docs\WORKFLOW_SKILL_ANALYSIS.md` (5,7 KB) - Analisa skills e fluxos uteis para executar o projeto.
+    - `production\scripts\README.md` (2,5 KB) - Documenta scripts previstos para automacao de producao.
+- `PROJECT_STATUS.md` (3,6 KB) - Registra o status atual do projeto, progresso e proximos passos.
+- `README.md` (7,3 KB) - Apresenta o projeto Neuroflow, sua proposta e orientacao inicial de uso.
+- `skills-lock.json` (525 B) - Arquivo de travamento que registra versoes/estado das skills instaladas.
+
