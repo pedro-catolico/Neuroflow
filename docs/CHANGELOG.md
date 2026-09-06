@@ -96,5 +96,18 @@
 
 ---
 
+## [0.2.0] — 2026-09-06 — Illustration Master Plan: Contemplative Figurative Alignment
+
+### Planejamento de Ilustrações (Revisão Estratégica)
+- Elevação do Illustration Master Plan para a versão **v0.2.0 — Contemplative Figurative Collection** em `content/illustration-list/illustrations-master.md`.
+- Aplicação estrita da regra de ouro editorial: *"Variar o conteúdo, preservar a linguagem"*. A identidade Neuroflow reside na linguagem visual e não na repetição do sujeito.
+- Adição dos 5 novos campos obrigatórios em todos os 45 conceitos: `Motivo Principal`, `Modo Figurativo`, `Função Contemplativa`, `Integração Neurográfica` e `Densidade Figurativa`.
+- Detalhamento conceitual completo das ilustrações `NF-031` a `NF-045` (anteriormente agrupadas), eliminando placeholders vagos.
+- Criação da **Collection Diversity Matrix** consolidando o mapeamento estrutural e a distribuição de motivos (Human Female 15.5%, Human Male 8.9%, Human Group 6.7%, Animal 11.1%, Flora 11.1%, Tree 11.1%, Landscape 11.1%, Architecture 8.9%, Object 8.9%, Symbolic Composition 8.9%, Water 2.2%).
+- Sincronização automática das 45 fichas individuais em `art/prompts/illustration-prompts/NF-001.md` a `NF-045.md` mantendo status `PLANNED / NOT TESTED` e prompt específico pendente.
+- Preservação integral dos Style Tests históricos (`ST-001` a `ST-004`), documentos de autoridade e decisões editoriais pendentes.
+
+---
+
 *Formato: [versão] — data — fase*
 
