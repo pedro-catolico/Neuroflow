@@ -111,7 +111,7 @@ Imagens de abertura — variedade de complexidades, forte impacto visual e intro
 | Campo | Valor |
 |-------|-------|
 | **Título** | Tecido de Neurônios |
-| **Conceito** | Composição simbólica de conexões neurais e micélios entrelaçados em arcos fluídos e constelações |
+| **Conceito** | Composição simbólica de linhas de pensamento e pontes orgânicas entrelaçadas em arcos fluídos e constelações poéticas |
 | **Motivo Principal** | Symbolic Composition |
 | **Modo Figurativo** | composição simbólica |
 | **Função Contemplativa** | wonder & deep focus |
@@ -119,7 +119,7 @@ Imagens de abertura — variedade de complexidades, forte impacto visual e intro
 | **Composição** | Rede distribuída |
 | **Fluxo** | Radial (múltiplos focos) |
 | **Densidade** | Média-Alta a Alta |
-| **Integração Neurográfica** | Nós neurais e elipses abertas conectam-se através de múltiplos focos em malha orgânica contínua |
+| **Integração Neurográfica** | Pontos de convergência e elipses abertas conectam-se através de múltiplos focos em malha orgânica e abstrata contínua, sem representação anatômica |
 | **Densidade Figurativa** | Medium |
 | **Tonal** | Distribuição equilibrada com hierarquia de peso entre nós primários e fios secundários |
 | **Experiência** | Imersiva, reveladora — sempre há um novo detalhe para descobrir |
@@ -439,7 +439,7 @@ Complexidade crescente, maior profundidade e imersão na diversidade de motivos.
 | Campo | Valor |
 |-------|-------|
 | **Título** | Célula em Expansão |
-| **Conceito** | Figura humana feminina acolhida no centro de um grande casulo vegetal que se abre |
+| **Conceito** | Figura humana feminina sentada em contemplação acolhida sob uma abóbada natural de trepadeiras e salgueiros que se abrem |
 | **Motivo Principal** | Human Female |
 | **Modo Figurativo** | protagonista humano |
 | **Função Contemplativa** | refuge & protection |
@@ -447,7 +447,7 @@ Complexidade crescente, maior profundidade e imersão na diversidade de motivos.
 | **Composição** | Expansão central |
 | **Fluxo** | Centrífugo |
 | **Densidade** | Média no centro, baixa fora |
-| **Integração Neurográfica** | As bordas do casulo vegetal desdobram-se em formas curvilíneas que protegem a figura e se expandem |
+| **Integração Neurográfica** | As linhas das ramificações vegetais desdobram-se em formas curvilíneas que protegem o refúgio da figura e se expandem |
 | **Densidade Figurativa** | Medium |
 | **Tonal** | Figura e casulo bem demarcados com fundo luminoso |
 | **Experiência** | Focada — sentimento de acolhimento e proteção |
@@ -537,7 +537,7 @@ Expansão de motivos e exploração de serenidade e formas simbólicas.
 | Campo | Valor |
 |-------|-------|
 | **Título** | Grande Espiral |
-| **Conceito** | A Árvore da Vida — grande árvore ancestral cujos galhos e raízes formam uma espiral expansiva na folha |
+| **Conceito** | Oliveira milenar ancestral vista em perspectiva ascendente (contra-plongée) cujos galhos e tronco retorcidos formam espiral expansiva |
 | **Motivo Principal** | Tree |
 | **Modo Figurativo** | natureza protagonista |
 | **Função Contemplativa** | grandiosity & connection |
@@ -545,7 +545,7 @@ Expansão de motivos e exploração de serenidade e formas simbólicas.
 | **Composição** | Espiral orgânica |
 | **Fluxo** | Espiral |
 | **Densidade** | Média a Alta |
-| **Integração Neurográfica** | O tronco e a ramificação da grande árvore espiralam cobrindo a composição em ritmos fluidos |
+| **Integração Neurográfica** | O tronco espiralado e a ramificação dos galhos em contra-plongée cobrem a composição em ritmos fluidos rumo ao céu |
 | **Densidade Figurativa** | High |
 | **Tonal** | Riqueza de contornos em galhos, folhas e raízes em espiral |
 | **Experiência** | Épica — a composição botânica mais ambiciosa da coleção |
@@ -629,7 +629,7 @@ Expansão de motivos e exploração de serenidade e formas simbólicas.
 | Campo | Valor |
 |-------|-------|
 | **Título** | Densa Calma |
-| **Conceito** | Composição simbólica inspirada nas pétalas assimétricas de flor de lótus aberta |
+| **Conceito** | Composição simbólica de pétalas e folhas em deriva assimétrica fluida sobre a água |
 | **Motivo Principal** | Symbolic Composition |
 | **Modo Figurativo** | composição simbólica |
 | **Função Contemplativa** | deep meditation |
@@ -637,7 +637,7 @@ Expansão de motivos e exploração de serenidade e formas simbólicas.
 | **Composição** | Campo denso |
 | **Fluxo** | Ondular |
 | **Densidade** | Alta |
-| **Integração Neurográfica** | Camadas de pétalas assimétricas desdobram-se em círculos orgânicos sem simetria rígida |
+| **Integração Neurográfica** | Camadas de pétalas assimétricas desdobram-se em campo denso sem centro concêntrico nem simetria mecânica |
 | **Densidade Figurativa** | Medium |
 | **Tonal** | Malha rica de linhas finas sem áreas pretas fechadas |
 | **Experiência** | Profundamente meditativa — imersão total |
@@ -986,7 +986,7 @@ Imagens finais — memoráveis, profundas, conclusivas da jornada contemplativa.
 | Campo | Valor |
 |-------|-------|
 | **Título** | Síntese |
-| **Conceito** | Figura feminina assentada no centro de uma flor de lótus cujas pétalas se irradiam |
+| **Conceito** | Figura feminina sentada em meditação à margem de um lago sereno cercada por flores de lótus em escala natural |
 | **Motivo Principal** | Human Female |
 | **Modo Figurativo** | protagonista humano |
 | **Função Contemplativa** | integration & wholeness |
@@ -994,7 +994,7 @@ Imagens finais — memoráveis, profundas, conclusivas da jornada contemplativa.
 | **Composição** | Expansão central |
 | **Fluxo** | Radial / centrífugo |
 | **Densidade** | Média-Alta |
-| **Integração Neurográfica** | A figura e a flor fundem-se em uma estrutura de linhas fluídas que se irradiam para fora |
+| **Integração Neurográfica** | As marolas d'água e as hastes de lótus conectam a postura serena da figura à paisagem em arcos expansivos |
 | **Densidade Figurativa** | Medium-High |
 | **Tonal** | Ponto focal na figura com camadas vibrantes de pétalas ao redor |
 | **Experiência** | Sensação de integração e inteireza pessoal |
@@ -1063,7 +1063,7 @@ Imagens finais — memoráveis, profundas, conclusivas da jornada contemplativa.
 | **Composição** | Campo denso |
 | **Fluxo** | Radial (multiple) |
 | **Densidade** | Média-Alta |
-| **Integração Neurográfica** | Os miolos e pétalas dos girassóis formam uma malha de espirais biológicas interligadas |
+| **Integração Neurográfica** | Os miolos e pétalas dos girassóis formam uma malha de espirais biológicas e ritmo botânico natural |
 | **Densidade Figurativa** | High |
 | **Tonal** | Ritmo de contornos florais em luz e sombra |
 | **Experiência** | Alegria meditativa e sensação de abundância |
