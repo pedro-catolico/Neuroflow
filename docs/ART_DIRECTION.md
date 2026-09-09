@@ -22,13 +22,16 @@ A linguagem visual do Neuroflow é inspirada no **neurografismo** — uma práti
 - Equilíbrio entre ordem e caos
 
 **O que o Neuroflow NÃO é:**
-- Uma representação científica do cérebro
-- Ilustrações literais de neurônios
+- Uma representação científica do cérebro ou ilustrações literais de neurônios
 - Arte digital técnica ou data visualization
-- Mandala simétrica
+- Mandala simétrica mecânica ou padrão decorativo vazio
+- Ilustração infantil, caricata ou estética de personagem de quadrinhos/jogos
 
 > **Síntese Conceitual — Contemplativo Figurativo**:  
-> “Contemplativo Figurativo” é a síntese conceitual da direção artística do Neuroflow: figuras e ambientes reconhecíveis são trabalhados por meio de uma linguagem neurográfica orgânica contínua, com composição contemplativa e complexidade destinada ao público adulto.
+> “Contemplativo Figurativo” é a síntese conceitual da direção artística do Neuroflow: figuras, ambientes, seres e objetos concretos reconhecíveis são trabalhados por meio de uma linguagem neurográfica orgânica contínua, com composição contemplativa e complexidade destinada ao público adulto.  
+>  
+> **Integração Orgânica entre Motivo e Estrutura:**  
+> O motivo reconhecível é o ponto de ancoragem e presença da cena, mas **nunca deve dominar ou anular a linguagem neurográfica**. Da mesma forma, as linhas e fluxos não são um mero padrão ornamental aplicado por trás da figura; eles brotam das dobras, contornos anatômicos, sombras, vegetação e do próprio ambiente, tecendo motivo e espaço numa unidade plástica indivisível.
 
 ---
 
@@ -267,25 +270,25 @@ Uma imagem é contemplativa quando:
 
 ## 12. CHECKPOINTS DE DIREÇÃO ARTÍSTICA
 
-Antes de qualquer geração em escala, estes checkpoints devem ser validados:
+Controle de qualidade e validação de estágios do projeto:
 
 ```
-CHECKPOINT 01 — DIREÇÃO ARTÍSTICA
-[ ] Style Bible aprovada
-[ ] Art Direction aprovada
-[ ] MASTER_PROMPT definido e validado
-[ ] NEGATIVE_PROMPT definido e validado
-[ ] Illustration Master Plan aprovado (40–50 conceitos)
-→ Somente após aprovação: avançar para Style Test
+CHECKPOINT 01 — DIREÇÃO ARTÍSTICA E MASTER PLAN (CONCLUÍDO & APROVADO)
+[X] Style Bible aprovada (v0.2.1)
+[X] Art Direction aprovada (v0.2.1)
+[X] MASTER_PROMPT definido e alinhado (v0.2.1)
+[X] NEGATIVE_PROMPT definido e alinhado (v0.2.1)
+[X] Illustration Master Plan aprovado e auditado (45 conceitos em illustrations-master.md v0.2.0)
+→ STATUS: APROVADO OFICIALMENTE. Próximo estágio: parametrização de prompts e Style Tests.
 ```
 
 ```
-CHECKPOINT 02 — STYLE TEST
-[ ] Mínimo 5–8 imagens geradas em estilos variados
-[ ] Avaliação grayscale (impressão real ou simulada)
-[ ] QA Visual aplicado
+CHECKPOINT 02 — STYLE TEST (PRÓXIMO ESTÁGIO OPERACIONAL)
+[ ] Testes de estilo específicos baseados nos prompts parametrizados
+[ ] Avaliação de linha preta pura e legibilidade de impressão
+[ ] QA Visual aplicado (13 critérios)
 [ ] Feedback do usuário incorporado
-[ ] MASTER_PROMPT refinado se necessário
+[ ] Refinamento fino do MASTER_PROMPT se necessário
 → Somente após aprovação: avançar para produção em escala
 ```
 
@@ -296,15 +299,15 @@ CHECKPOINT 02 — STYLE TEST
 > **Importante:** As referências abaixo são conceituais e servem para orientar a sensibilidade visual. Não são referências para cópia ou derivação. Ver `art/references/README.md` para política de referências.
 
 **Linguagens visuais afins (conceitual):**
-- Neurografismo (Pavel Piskarev) — origem do conceito
-- Zentangle — linhas, padrões, meditação
-- Suminagashi — fluidez e acidentalidade
-- Op Art — ilusão e ritmo
-- Arte islâmica abstraída — padrão e profundidade
+- Neurografismo (Pavel Piskarev) — origem do conceito de fluxo e integração orgânica
+- Zentangle — linhas, ritmos e meditação pelo traço
+- Suminagashi — fluidez e acidentalidade orgânica
+- Linocut / Xilogravura contemporânea — força da linha preta e contraste visual
+- Arte botânica e paisagismo contemplativo — observação atenta da natureza viva
 
-**O Neuroflow NÃO é nenhum desses** — é sua própria linguagem, influenciada por todos.
+**O Neuroflow NÃO é nenhum desses** — é sua própria linguagem estética: Contemplativo Figurativo.
 
 ---
 
-*Documento criado em: 2026-09-03*  
-*Versão: 0.1.0 — Foundation*
+*Documento atualizado em: 2026-09-09*  
+*Versão: 0.2.1 — Contemplative Figurative Authority Alignment*

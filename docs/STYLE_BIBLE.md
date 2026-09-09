@@ -9,9 +9,21 @@
 
 A identidade visual do Neuroflow tem como síntese o **Contemplativo Figurativo**:
 - **Contemplativo**: Silêncio visual, sensação de pausa, presença, introspecção, composição equilibrada e convite à observação prolongada e consciente.
-- **Figurativo**: Elementos, ambientes, seres ou objetos concretos e reconhecíveis trabalhados por meio de uma estrutura neurográfica orgânica contínua.
+- **Figurativo**: Motivos e sujeitos concretos e reconhecíveis trabalhados por meio de uma estrutura neurográfica orgânica contínua.
 
-**Fórmula Visual**: Figura Reconhecível + Estrutura Neurográfica Orgânica + Composição Contemplativa + Complexidade Adulta.
+**Categorias Permitidas de Motivos Figurativos:**
+- Figuras humanas adultas serenas (femininas, masculinas, duplas/grupos em postura de contemplação)
+- Animais adultos em posturas naturais e elegantes
+- Flora, árvores ancestrais e composições botânicas
+- Paisagens naturais (montanhas, rios, lagos, dunas, costa)
+- Arquitetura orgânica e integrada (pontes de pedra, pórticos, templos, varandas)
+- Objetos de foco contemplativo (arranjos florais, livros, elementos zen)
+- Composições simbólicas e de fluxo abstratizado
+
+**Fórmula Visual:**  
+$$\text{Motivo / Figura Reconhecível} + \text{Estrutura Neurográfica Orgânica} + \text{Composição Contemplativa} + \text{Complexidade Adulta}$$
+
+> **Regra Fundamental de Representação:** “Figura reconhecível” NÃO significa “personagem”. O sujeito não deve parecer um personagem narrativo com expressões teatrais, caricatas ou apelo comercial. Ele existe como âncora contemplativa dentro do ambiente.
 
 ---
 
@@ -289,53 +301,50 @@ Cada composição deve oferecer:
 
 ---
 
-## 8. PALAVRAS PROIBIDAS NA DIREÇÃO
+## 8. ELEMENTOS E ESTÉTICAS PROIBIDAS
+ 
+ As seguintes características são terminantemente proibidas no projeto Neuroflow:
 
-As seguintes palavras/conceitos não devem aparecer nos prompts nem nas avaliações como qualidades positivas:
-
-❌ Mandala (como referência primária)  
-❌ Cartoon / animated  
-❌ Cute / kawaii  
-❌ Infantil / childlike  
-❌ Genérico / clipart  
-❌ Simétrico (como única qualidade)  
-❌ Brilhante (em contexto de cor)  
-❌ Colorido (para imagens em grayscale)  
-❌ Abstração pura sem figura / Padrão geométrico ou mandálico  
+❌ **Estética de Personagem / Character Design** (proibido estilo cartoon, anime, mangá, mascote, caricatura ou concept art comercial)  
+❌ **Infantilização** (proibido estilo cute, kawaii, livros infantis ou traços ingênuos)  
+❌ **Fotorrealismo & 3D** (proibido renders 3D, texturas fotográficas ou hiper-realismo)  
+❌ **Geometria Rígida / Mandalas Mecânicas** (proibido simetria radial exata ou padrões de caleidoscópio)  
+❌ **Abstração Pura sem Motivo** (proibido emaranhado caótico de linhas desprovido de motivo contemplativo)  
+❌ **Genérico / Clipart** (proibido estética de banco de vetores genérico)  
+❌ **Elementos Textuais / Comerciais** (proibido assinaturas, textos, logos, marcas d'água)  
 
 ---
 
-## 9. AVALIAÇÃO RÁPIDA (CHECKLIST)
+## 9. AVALIAÇÃO RÁPIDA (CHECKLIST OPERACIONAL)
 
 Use este checklist ao avaliar qualquer imagem gerada:
 
 ```
-ESTILO
-[ ] Linguagem fluida e orgânica presente
-[ ] Sem geometria rígida dominante
-[ ] Não parece infantil ou clipart
+ESTILO & FIGURAÇÃO
+[ ] Motivo reconhecível presente (humano, animal, botânico, paisagem, arquitetura, objeto ou simbólico)
+[ ] Sem estética de personagem / character design (sem cartoon, anime, mangá ou mascotes)
+[ ] Linguagem fluida, orgânica e neurográfica presente
+[ ] Sem geometria rígida ou mandala mecânica dominante
 
-TONALIDADE
-[ ] Escala tonal completa (highlights a sombras)
-[ ] Sem excesso de preto
-[ ] Contraste adequado para impressão
+TONALIDADE & LINHAS
+[ ] Traçado em linha preta pura sobre fundo branco (sem cinzas desbotados ou gradientes)
+[ ] Hierarquia clara de linhas (primárias, secundárias e terciárias)
+[ ] Sem excesso de preto ou blocos sólidos escuros
+[ ] Contraste impecável para impressão
 
-EXPERIÊNCIA
-[ ] Variedade de tamanhos de área
-[ ] Pelo menos 3 áreas grandes para coloração
-[ ] Microdetalhes presentes mas não impossíveis
-[ ] Espaço negativo adequado
+EXPERIÊNCIA DE COLORAÇÃO
+[ ] Variedade de tamanhos de área (células confortáveis para colorir)
+[ ] Espaço negativo e zonas de respiro contemplativo intencionais
+[ ] Microdetalhes realizáveis com lápis de cor padrão
 
-TÉCNICA
-[ ] Sem watermark
-[ ] Sem texto
-[ ] Sem assinatura
-[ ] Sem elementos infantis, caricatos ou marcas comerciais
-[ ] Sem marcas comerciais
+INTEGRIDADE TÉCNICA
+[ ] Sem texto, letras ou números
+[ ] Sem watermark, assinaturas ou logos
+[ ] Sem artefatos digitais, ruído ou distorções anatômicas aberrantes
 ```
 
 ---
 
-*Documento criado em: 2026-09-03*  
-*Versão: 0.1.0 — Foundation*  
-*Autoridade: Este documento prevalece sobre qualquer outro em caso de conflito estético*
+*Documento atualizado em: 2026-09-09*  
+*Versão: 0.2.1 — Contemplative Figurative Authority Alignment*  
+*Autoridade: Este documento prevalece sobre qualquer outro em caso de conflito estético.*

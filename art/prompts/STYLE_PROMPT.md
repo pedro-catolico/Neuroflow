@@ -6,40 +6,34 @@
 
 ---
 
-## STYLE PROMPT (Versão 0.2.0 — Contemplative Figurative Alignment)
+## STYLE PROMPT (Versão 0.2.1 — Contemplative Figurative Authority Alignment)
 
 ```
 Technical style specifications — Contemplative Figurative Execution:
 
-Visual Hierarchy Priorities:
-1. Recognizability of the primary figure/scene (clear contours of central adult figure, face, nature, or environment)
-2. Organic integration of neurographic flow (lines wrap, connect, and structure forms without breaking readability)
-3. Contemplative composition (spacious, balanced negative space creating breathing room)
-4. Coloring usability (clean, comfortable enclosed cells for pencils and markers)
-5. Adult complexity (sophisticated line rhythm without visual clutter)
-6. Technical line-art finish (pure black ink on pure white paper)
+Pure Black Line Art Operational Standard:
+- 100% solid black line art on pure white paper (RGB 0,0,0 on RGB 255,255,255).
+- Zero gray lines, zero faded lines, zero opacity falloff, zero halftone dots.
+- Zero manual grayscale shading or airbrush tonal wash as an obligation; the baseline is crisp, clean line art.
 
-Line Art Hierarchy:
-- Primary structural lines: Medium-bold crisp black outlines defining main figure and key forms.
-- Secondary flow lines: Medium-weight continuous curves creating organic connections.
-- Interior detail lines: Fine, delicate pure black lines for clothing patterns or natural textures.
-- All lines must be 100% solid black ink on 100% pure white paper. Zero gray lines, zero opacity fade, zero grayscale shading.
+Depth & Dimensionality without Grayscale Wash:
+Depth is created exclusively through linear and compositional techniques:
+1. Line Weight Hierarchy: bold primary outlines for foreground and key contours; medium secondary flow lines; fine delicate lines for interior textures.
+2. Density & Spacing: tight, organic line clusters in shadows and ground; spacious line intervals in lighter zones.
+3. Overlap & Layering: foreground elements overlapping midground and background structures.
+4. Scale & Perspective: gradual size variation from foreground to horizon.
+5. Negative White Space: large open areas of pure white creating luminous highlights and visual rest.
 
-Integration of Figure & Flow (Figure -> Lines -> Space -> Contemplation):
-- The neurographic line flow is NOT a decorative background overlay slapped behind the subject.
-- Lines must organically participate in the scene, wrapping around forms, flowing into tree branches, clothing folds, or paths.
-- Avoid turning the flow into a confusing maze, rigid mandala, repetitive geometric grid, or unreadable abstract tangle.
-
-Negative Space & Density Mapping:
-- Focal area (central figure/scene): clear, legibly detailed, high clarity.
-- Organic transitional zones: low-medium line density.
-- Background atmospheric elements: simplified outlines with generous white space between lines.
-- Minimum 25-30% of total composition reserved as pure white negative space.
+Integration of Subject & Neurographic Flow:
+- The neurographic lines are structurally integrated into the motive (not a detached wallpaper pattern).
+- Lines emerge from contours, folds, limbs, trunks, water surfaces, stones, and atmospheric horizons.
+- Organic irregularities: hand-drawn sensibility, varying curvatures with natural acceleration and deceleration. No compass circles or ruler-straight lines.
+- Enclosed Coloring Cells: forms and flow lines create comfortable, well-defined cells suitable for pencils and markers.
 
 Print Readiness (KDP Requirements):
-High contrast pure black line art on white.
-All enclosed cells remain clean, legible, and easy to color at print size (8.5x11 inches at 300 DPI minimum).
-No solid black filled areas larger than tiny accent points. No gradients. No gray wash.
+- Ultra-clean high contrast suitable for Amazon KDP print-on-demand.
+- No solid black filled areas larger than small decorative accent points (less than 5% total black fill).
+- Clear, distinct boundaries that remain fully legible at print size (8.5x11 inches at 300 DPI).
 ```
 
 ---
@@ -66,8 +60,9 @@ Fine, elegant interior line rhythms. Intricate yet printable cell divisions whil
 |--------|------|---------|
 | 0.1.0 | 2026-09-03 | Versão inicial — Foundation Phase |
 | 0.2.0 | 2026-09-05 | Alinhamento técnico à execução Contemplativo Figurativo (v0.1.2) |
+| 0.2.1 | 2026-09-09 | Refinamento operacional de linha preta pura e técnicas de profundidade linear |
 
 ---
 
-*Versão: 0.2.0 — Foundation*
+*Versão: 0.2.1 — Foundation*
 

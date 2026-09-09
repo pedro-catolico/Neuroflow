@@ -3,22 +3,27 @@
 
 > Guia para criar variações mantendo coerência visual na coleção.
 > Use ao criar os prompts individuais das ilustrações.
+> **Regra Editorial Fundamental:** *"Vary the subject. Preserve the visual language."*
 
 ---
 
 ## 1. PRINCÍPIO DA VARIAÇÃO CONTROLADA
 
-A coleção deve ser variada mas coesa:
-- **Variada:** Cada imagem deve ter identidade própria
-- **Coesa:** Todas devem ser reconhecíveis como pertencentes ao Neuroflow
-
-O equilíbrio entre variação e coesão é o principal desafio da coleção.
+A identidade do Neuroflow não reside na repetição do sujeito, mas na consistência da linguagem visual:
+- **Variar o Conteúdo:** A coleção alterna deliberadamente entre figura humana feminina, masculina, grupos, animais, flora, árvores ancestrais, paisagens, arquitetura, objetos e composições simbólicas.
+- **Preservar a Linguagem:** Toda ilustração, independentemente do motivo, expressa a fórmula visual:
+  $$\text{Motivo Reconhecível} + \text{Estrutura Neurográfica Orgânica} + \text{Composição Contemplativa} + \text{Complexidade Adulta}$$
+- **Autoridade de Motivo:** O arquivo `content/illustration-list/illustrations-master.md` é a única autoridade para o motivo específico, complexidade, composição e função contemplativa de cada ID (NF-001 a NF-045).
 
 ---
 
 ## 2. VARIÁVEIS CONTROLADAS
 
-### 2.1 Composição (VARIAR LIVREMENTE)
+### 2.1 Motivo Principal (DEFINIDO PELO MASTER PLAN)
+Cada ilustração deve seguir rigorosamente a categoria registrada na matriz do Master Plan:
+- `Human Female`, `Human Male`, `Human Group`, `Animal`, `Flora`, `Tree`, `Landscape`, `Architecture`, `Object`, `Symbolic Composition`, `Water`.
+
+### 2.2 Composição (VARIAR CONFORME PLANEJADO)
 
 | Tipo Compositivo | Descrição |
 |-----------------|-----------|
@@ -29,125 +34,83 @@ O equilíbrio entre variação e coesão é o principal desafio da coleção.
 | Fluxo lateral | Movimento predominantemente horizontal |
 | Campo denso | Densidade uniforme com variações |
 | Contraste de escala | Grande × pequeno em tensão |
-
-**Meta:** Cada tipo compositivo deve aparecer pelo menos 3–5 vezes na coleção.
-
----
-
-### 2.2 Fluxo Dominante (VARIAR POR GRUPO)
-
-| Fluxo | Sensação | Meta na Coleção |
-|-------|---------|----------------|
-| Centrífugo | Expansão, abertura | ~20% |
-| Centrípeto | Foco, concentração | ~15% |
-| Espiral | Transformação, ritmo | ~20% |
-| Ondular | Calma, fluxo | ~20% |
-| Radial | Energia, vitalidade | ~15% |
-| Descendente | Peso, ancoragem | ~10% |
+| Bordas ativas | Centro livre com margens dinâmicas |
 
 ---
 
-### 2.3 Densidade (VARIAR SISTEMATICAMENTE)
+### 2.3 Fluxo Dominante (DISTRIBUÍDO NA COLEÇÃO)
 
-Não deve haver mais de 3 imagens consecutivas de alta ou baixa densidade:
-
-```
-Sequência de exemplo:
-Alta → Média → Baixa → Alta → Média → Alta → Baixa → Média → ...
-```
-
----
-
-### 2.4 Complexidade (VARIAR POR DISTRIBUIÇÃO PLANEJADA)
-
-Ver distribuição em STYLE_BIBLE.md, Seção 6.2.
-
-Não colocar todas as imagens Level 5 no final — distribua.
+| Fluxo | Sensação |
+|-------|---------|
+| Centrífugo | Expansão, abertura, libertação |
+| Centrípeto | Foco, concentração, absorção |
+| Espiral | Transformação, ritmo contínuo |
+| Ondular | Calma, ritmo sereno, fluidez |
+| Radial | Energia, vitalidade, irradiação |
+| Descendente | Peso, ancoragem, estabilidade |
+| Vertical | Elevação, dignidade, escolha |
 
 ---
 
-### 2.5 Zona de Interesse Principal (VARIAR INTENCIONALMENTE)
+### 2.4 Densidade (SISTEMATICAMENTE BALANCEADA)
 
-| Zona | Descrição |
-|------|-----------|
-| Centro | Interesse focal no centro |
-| Terço superior | Interesse no topo |
-| Terço inferior | Interesse na base (peso visual) |
-| Diagonal A | Canto superior esquerdo → inferior direito |
-| Diagonal B | Canto superior direito → inferior esquerdo |
-| Bordas ativas | Interesse distribuído nas bordas |
-| Distribuído | Sem zona dominante — distribuição uniforme |
+Evitar sequências longas de alta ou baixa densidade. O livro deve alternar momentos de alta textura com páginas de amplo respiro visual.
+
+---
+
+### 2.5 Complexidade (Levels 1 a 5)
+
+Distribuição rigorosamente calibrada conforme o Master Plan:
+- Level 1 (5 imagens, ~11%) — Linhas amplas e respiro generoso
+- Level 2 (9 imagens, ~20%) — Formas balanceadas
+- Level 3 (17 imagens, ~38%) — Densidade intermediária
+- Level 4 (10 imagens, ~22%) — Detalhamento rico
+- Level 5 (4 imagens, ~9%) — Composições altamente densas e imersivas
 
 ---
 
 ## 3. CONSTANTES OBRIGATÓRIAS
 
-Estes elementos NÃO variam — são a identidade do Neuroflow (*Variar o conteúdo, preservar a linguagem*):
+Estes elementos NÃO variam — constituem a alma estética do Neuroflow:
 
 | Elemento | Regra |
 |----------|-------|
-| Linguagem de linha | Sempre fluida, orgânica, contínua |
-| Ausência de geometria rígida | Sempre (sem mandalas ou padrões mecânicos) |
-| Conceito visual síntese | Sempre Contemplativo Figurativo (figura reconhecível em fluxo neurográfico) |
-| Integração figura-fluxo | A linha neurográfica envolve e conecta a figura sem destruir sua legibilidade |
-| Adequação para coloração adulta | Sempre (células confortáveis, linha preta pura, sem cinza) |
-| Identidade contemplativa | Sempre (atmosfera de pausa, presença e silêncio visual) |
-| Ausência de estética infantil | Sempre (sem cartoon, anime, mangá, mascotes ou caricaturas) |
+| Linguagem de linha | Sempre fluida, orgânica, contínua e interconectada |
+| Linha preta pura | Sempre 100% preto sobre branco puro (sem cinzas, sem gradientes) |
+| Ausência de geometria rígida | Sempre (sem mandalas mecânicas ou padrões vetoriais frios) |
+| Integração figura-fluxo | A linha neurográfica brota do motivo e do espaço, sem parecer colada por trás |
+| Adequação para coloração adulta | Sempre (células fechadas confortáveis, sem manchas de tinta preta) |
+| Identidade contemplativa | Sempre (atmosfera de silêncio visual, introspecção e pausa) |
+| Ausência de estética de personagem | Sempre (sem cartoon, anime, mangá, mascotes, caricaturas ou poses teatrais) |
 
 ---
 
 ## 4. SEQUENCIAMENTO NA COLEÇÃO
 
 ### 4.1 Regras de Sequência
-
+- Nunca mais de 2 imagens consecutivas do mesmo motivo principal
 - Nunca mais de 2 imagens do mesmo nível de complexidade em sequência
-- Nunca mais de 2 imagens do mesmo tipo compositivo em sequência
-- Alternar imagens de alta e baixa densidade regularmente
-- Distribuir Level 1 e Level 5 ao longo de toda a coleção (não agregar)
-
-### 4.2 Estrutura Sugerida por Terços
-
-| Terço | Posição | Característica |
-|-------|---------|---------------|
-| Abertura | NF-001 a NF-015 | Mix de complexidades, boa variedade, impacto visual imediato |
-| Corpo | NF-016 a NF-035 | Maior complexidade, mais detalhes, experiências mais imersivas |
-| Fechamento | NF-036 a NF-050 | Variedade alta, alguns dos mais especiais, fechamento memorável |
+- Alternar imagens de foco humano com imagens de natureza, arquitetura e objetos
+- Preservar a cadência e a progressão dos 5 grupos do Master Plan (Abertura, Corpo I, Corpo II, Corpo III, Fechamento)
 
 ---
 
 ## 5. CONSTRUÇÃO DO PROMPT ESPECÍFICO
 
-### Template
+### Template Oficial
 
 ```
-[MASTER_PROMPT (v0.2.0)]
+[MASTER_PROMPT (v0.2.1)]
 
-[STYLE_PROMPT (v0.2.0)]
+[STYLE_PROMPT (v0.2.1)]
 
 Specific composition for [NF-XXX]:
-[Descrição do sujeito/figura reconhecível]
-[Descrição do tipo compositivo]
-[Descrição do fluxo dominante]
-[Descrição da zona de interesse]
-[Descrição da integração entre a figura e a estrutura neurográfica]
+[Título e Conceito derivado do illustrations-master.md]
+[Motivo Principal e Modo Figurativo]
+[Tipo Compositivo e Fluxo Dominante]
+[Zona de interesse e Integração Neurográfica específica]
 Complexity level: [1–5]
 Density: [low / low-medium / medium / medium-high / high]
-```
-
-### Exemplo Aplicado
-
-```
-[MASTER_PROMPT + STYLE_PROMPT v0.2.0]
-
-Specific composition for NF-007:
-Contemplative figurative composition featuring a serene adult human silhouette in a quiet forest setting.
-Organic neurographic lines flow from the roots underfoot, wrapping around the central figure 
-and extending into the surrounding tree branches. The central figure remains clear and recognizable.
-
-Flow: Spiral / centrifugal. Dominant movement from upper-left to lower-right with rotation.
-Primary zone of interest: central figure and foreground path.
-Complexity level: 3 (intermediate).
-Density: Medium, rising to medium-high at the edges.
 ```
 
 ---
@@ -158,12 +121,11 @@ Evitar estas armadilhas comuns:
 
 | Anti-padrão | Problema | Solução |
 |-------------|---------|---------|
-| 50 variações da mesma "nebulosa de linhas" | Sem variedade real | Planejar sujeitos e tipos compositivos diferentes |
-| Todas as imagens com o mesmo centro focal | Monotonia estrutural | Variar zona de interesse |
-| Complexidade crescente linear | Previsível | Distribuir aleatoriamente |
-| Todas ondulares ou todas espirais | Ausência de variedade de fluxo | Planejar distribuição de fluxos |
-| Densidade uniforme | Sem dinâmica | Mapear densidade explicitamente |
-| Abstração pura desprovida de figura | Perda da identidade v0.1.2 | Garantir figura ou cena reconhecível integrada ao fluxo |
+| Repetição contínua de figuras femininas | Monotonia temática | Seguir a matriz do Master Plan com alternância de motivos |
+| Figura colada sobre fundo de linhas | Falta de integração | Fazer as linhas brotarem das formas e ambiente |
+| Todas as imagens com a mesma composição | Previsibilidade estrutural | Variar tipos compositivos e pontos focais |
+| Abstração pura desprovida de motivo | Perda da identidade do produto | Garantir motivo reconhecível estruturado pelo fluxo |
+| Estética infantil ou de história em quadrinhos | Quebra do público-alvo adulto | Rigor no estilo contemplativo sóbrio e sereno |
 
 ---
 
@@ -173,8 +135,9 @@ Evitar estas armadilhas comuns:
 |--------|------|---------|
 | 0.1.0 | 2026-09-03 | Versão inicial — Foundation Phase |
 | 0.2.0 | 2026-09-05 | Alinhamento operacional ao conceito Contemplativo Figurativo (v0.1.2) |
+| 0.2.1 | 2026-09-09 | Formalização da regra "Vary the subject. Preserve the visual language" e vinculação ao Master Plan |
 
 ---
 
-*Versão: 0.2.0 — Foundation*
+*Versão: 0.2.1 — Foundation*
 

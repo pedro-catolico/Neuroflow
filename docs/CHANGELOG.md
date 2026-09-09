@@ -109,5 +109,17 @@
 
 ---
 
+## [0.2.1] — 2026-09-09 — Authority Synchronization: Contemplative Figurative Consolidation
+
+### Documentos de Autoridade & Sistema de Prompts
+- Elevação sincronizada de `docs/STYLE_BIBLE.md`, `docs/ART_DIRECTION.md`, `art/prompts/MASTER_PROMPT.md`, `art/prompts/STYLE_PROMPT.md`, `art/prompts/NEGATIVE_PROMPT.md` e `art/prompts/VARIATION_RULES.md` para a versão **v0.2.1**.
+- **Eliminação Total de Contradições de Abstração:** Autorização explícita e abrangente de motivos figurativos contemplativos (humanos serenos, animais adultos, árvores ancestrais, botânica, paisagens, arquitetura orgânica, objetos zen e composições simbólicas).
+- **Proteção contra Estética de Personagem:** Distinção rigorosa estabelecida em todos os documentos: *"figura reconhecível NÃO significa personagem"*, banindo estéticas de cartoon, anime, mangá, mascotes, concept art de videogame, caricature e ilustrações comerciais/infantis.
+- **Linha Preta Pura e Profundidade Linear:** Consolidação do padrão de linha 100% preta sobre branco puro sem escala de cinza manual obrigatória, definindo que a profundidade visual emerge da hierarquia de espessura de traço, densidade de linhas, sobreposição de planos e espaço negativo.
+- **Operacionalização do Checkpoint 01:** Registro do Checkpoint 01 como oficialmente concluído e aprovado em `docs/ART_DIRECTION.md`, definindo o Checkpoint 02 (Style Test específico pós-parametrização) como próximo marco operacional.
+- **Regra Editorial Formalizada:** Inscrição definitiva da diretriz *"Vary the subject. Preserve the visual language"* em `art/prompts/VARIATION_RULES.md`, consolidando o `illustrations-master.md` como autoridade incontestável de motivos para cada ID (NF-001 a NF-045).
+
+---
+
 *Formato: [versão] — data — fase*
 

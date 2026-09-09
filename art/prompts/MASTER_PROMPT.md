@@ -7,30 +7,41 @@
 
 ---
 
-## MASTER PROMPT (Versão 0.2.0 — Contemplative Figurative Alignment)
+# MASTER PROMPT
+## NEUROFLOW — Prompt Base de Identidade Visual
+
+> Este é o prompt fundacional de toda geração de imagens do Neuroflow.
+> Deve ser incluído (ou referenciado) em TODOS os prompts de geração.
+> NÃO modificar sem revisar STYLE_BIBLE.md e ART_DIRECTION.md.
+
+---
+
+## MASTER PROMPT (Versão 0.2.1 — Contemplative Figurative Authority Alignment)
 
 ```
 Neurographic flow art illustration for an adult coloring book — Contemplative Figurative identity.
 
-Core Concept: 
-A recognizable subject or scene (adult human figure, calm portrait, natural element, landscape, or architecture) seamlessly integrated with flowing organic neurographic structures. The artwork balances figure recognizability, organic line flow, and contemplative breathing space.
+Operational Hierarchy:
+1. Recognizable Subject / Motive:
+   A clear, recognizable focal motive (serene adult human figure, animal in natural posture, tree, botanical flora, quiet landscape, organic architecture, contemplative object, or symbolic composition). 
+   The subject provides poise and grounding; it is never a theatrical character, comic character, or mascot.
 
-Style & Form:
-Fluid, organic, continuous curving lines that interweave, loop, connect, and wrap around the subject. 
-Organic neurographic forms that structure and connect elements across the composition. 
-No rigid geometry. No mechanical symmetry. No pure abstract clutter. No mandalas.
+2. Organic Neurographic Integration:
+   The neurographic structure is not a decorative backdrop stamped behind the motive. 
+   Continuous, fluid, curving lines emerge organically from the contours, folds, anatomical lines, foliage, textures, and spatial environment, weaving subject and space into an unbroken living tapestry. No pure abstract clutter. No rigid geometry. No mechanical mandalas.
 
-Subject & Figure Guidelines:
-- PERMITTED: Calm adult human figure, serene face/portrait, natural forms, animals, landscape, architectural elements.
-- PROHIBITED: Childlike figures, cartoon, anime, manga, caricature, mascot, commercial characters, kitsch, hyperrealism.
+3. Contemplative Composition:
+   Visual silence, stillness, and pause. Asymmetric, breathing visual rhythm that guides the eye calmly across foreground, middle ground, and background without visual chaos or aggressive tension.
 
-Contemplative Atmosphere:
-Composition conveys visual silence, pause, presence, interiority, and balance. 
-Slow organic movement with generous, intentional negative space for a mindful coloring experience.
+4. Negative Space:
+   Generous, intentional open white space (minimum 20-30% of total area) creating room for visual rest, lightness, and mindful coloring progression.
 
-Line Art Technique & Quality:
-Crisp black and white line art artwork with clear line weight hierarchy (bold primary contours, medium secondary forms, delicate tertiary lines). 
-Designed for adult colorists using colored pencils or markers. Clear, comfortable enclosed coloring cells. No solid black masses, no gradients, no text, no watermarks, no logos.
+5. Adult Complexity:
+   Calibrated sophistication suitable for adult colorists (Levels 1 to 5). Intricate yet distinct cells, rich line textures (organic hatching, flow lines) without unprintable micro-noise.
+
+6. Coloring Experience:
+   Designed specifically for adult colorists using colored pencils, fine-liners, or markers. Clear, comfortable enclosed coloring cells. 
+   Pure crisp black line art on pure white background. Zero solid black fills, zero gray shading, zero text, zero watermarks.
 ```
 
 ---
@@ -40,9 +51,9 @@ Designed for adult colorists using colored pencils or markers. Clear, comfortabl
 ### Estrutura de Prompt Completo
 
 ```
-[MASTER PROMPT (v0.2.0)]
+[MASTER PROMPT (v0.2.1)]
 +
-[STYLE PROMPT (v0.2.0)]  (ver STYLE_PROMPT.md)
+[STYLE PROMPT (v0.2.1)]  (ver STYLE_PROMPT.md)
 +
 [CONCEITO ESPECÍFICO DA ILUSTRAÇÃO]  (ver illustrations-master.md e NF-XXX.md)
 ```
@@ -52,9 +63,9 @@ Designed for adult colorists using colored pencils or markers. Clear, comfortabl
 ```
 Neurographic flow art illustration for an adult coloring book — Contemplative Figurative identity.
 
-[... Master Prompt v0.2.0 completo ...]
+[... Master Prompt v0.2.1 completo ...]
 
-[... Style Prompt v0.2.0 ...]
+[... Style Prompt v0.2.1 ...]
 
 Specific composition: A calm adult female figure standing thoughtfully in a quiet natural environment. 
 Organic neurographic lines flow continuously around her attire and the surrounding tree branches, 
@@ -71,6 +82,7 @@ Complexity level: 3 (intermediate).
 |--------|------|---------|
 | 0.1.0 | 2026-09-03 | Versão inicial — Foundation Phase |
 | 0.2.0 | 2026-09-05 | Alinhamento operacional à identidade Contemplativo Figurativo (v0.1.2) |
+| 0.2.1 | 2026-09-09 | Sincronização da hierarquia operacional de 6 níveis pós-Checkpoint 01 |
 
 ---
 
