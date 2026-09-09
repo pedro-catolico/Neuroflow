@@ -118,6 +118,7 @@
 - **Linha Preta Pura e Profundidade Linear:** Consolidação do padrão de linha 100% preta sobre branco puro sem escala de cinza manual obrigatória, definindo que a profundidade visual emerge da hierarquia de espessura de traço, densidade de linhas, sobreposição de planos e espaço negativo.
 - **Operacionalização do Checkpoint 01:** Registro do Checkpoint 01 como oficialmente concluído e aprovado em `docs/ART_DIRECTION.md`, definindo o Checkpoint 02 (Style Test específico pós-parametrização) como próximo marco operacional.
 - **Regra Editorial Formalizada:** Inscrição definitiva da diretriz *"Vary the subject. Preserve the visual language"* em `art/prompts/VARIATION_RULES.md`, consolidando o `illustrations-master.md` como autoridade incontestável de motivos para cada ID (NF-001 a NF-045).
+- **Arquitetura de Prompts v0.1:** Criação de `docs/PROMPT_ARCHITECTURE.md` estabelecendo a engenharia padronizada de 8 blocos operacionais (A a H), regras de precedência e acoplamento, e atualização do template oficial em `art/prompts/illustration-prompts/_TEMPLATE.md` para preparação do Checkpoint 02.
 
 ---
 
