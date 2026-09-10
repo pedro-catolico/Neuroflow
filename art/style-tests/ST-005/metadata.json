@@ -1,0 +1,15 @@
+{
+  "test_id": "ST-005",
+  "concept_id": "NF-001",
+  "title": "Primeira Onda",
+  "date": "2026-09-09",
+  "model_used": "Imagen 3 (via Antigravity generate_image)",
+  "generations_count": 3,
+  "selected_generation": "ST-005-v1.jpg",
+  "prompt_architecture_version": "0.1",
+  "prompt_file": "art/prompts/illustration-prompts/NF-001.md",
+  "prompt_used": "Contemplative Figurative adult coloring book page, Level 2 complexity, crisp black line art on pure white paper. Two serene humpback whales gliding side-by-side through a calm sea, wide lateral framing. Fluid neurographic lines originate from wave crests and wrap around the whales' backs, merging ocean water and air into continuous organic contours. Lateral composition with ondular wave-like flow, 25-30% open white negative space in the upper sky area. Primary bold black outlines on whales with finer secondary wave lines, forming comfortable open coloring cells. Clean 100% black lines, no gray, no shading, no gradients, no solid black fills. --no text, watermarks, signatures, character design, cartoon, anime, manga, mascot, kawaii, photorealism, 3D, mandalas, rigid symmetry.",
+  "negative_prompt_used": "text, watermarks, signatures, character design, cartoon, anime, manga, mascot, kawaii, photorealism, 3D, mandalas, rigid symmetry",
+  "qa_status": "APPROVED",
+  "qa_score": 4.69
+}
