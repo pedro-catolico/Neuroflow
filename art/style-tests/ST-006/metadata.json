@@ -1,0 +1,22 @@
+{
+  "concept_id": "NF-003",
+  "qa_status": "APPROVED",
+  "selected_generation": "art/style-tests/ST-006/ST-006-selected.jpg",
+  "prompt_file": "art/prompts/illustration-prompts/NF-003.md",
+  "title": "Respiração Expandida",
+  "generations": {
+    "v3": "art/style-tests/ST-006/ST-006-v3.jpg",
+    "v1": "art/style-tests/ST-006/ST-006-v1.jpg",
+    "v2": "art/style-tests/ST-006/ST-006-v2.jpg"
+  },
+  "generations_count": 3,
+  "prompt_architecture_version": "0.1",
+  "prompt_used": "Contemplative Figurative adult coloring book page, crisp black line art on pure white background. A serene human female figure in a conscious mindful breathing posture, medium shot framing. Organic breath-like arcs and irregular looping curves emerge from near the chest area, swirling gracefully outward. Central expansion composition (inverted: high line density at page outer borders, open light negative space around center torso). Centripetal flow guiding eye inward. Level 4 adult complexity with intricate border cell patterns and comfortable center coloring areas. Clean 100% black lines, no gray, no shading, no gradients, no solid black fills. --no text, watermarks, signatures, character design, cartoon, anime, manga, mascot, kawaii, photorealism, 3D, mandalas, concentric circular motifs, rigid geometric symmetry.",
+  "qa_score": 4.85,
+  "selection_justification": "A versão v2 representa com maior precisão o conceito de expansão central invertida e fluxo centrípeto estabelecido no Master Plan da NF-003. A figura humana feminina encontra-se centralizada em postura contemplativa frontal com mãos no peito e abdômen (gesto explícito de respiração consciente), envolvida por arcos orgânicos que irradiam para as margens densamente detalhadas em tramas neurográficas de Level 4, criando um contraste centrípeto natural e área de respiro central harmoniosa (~30% de espaço negativo). A v1 apresentou perfil lateral assimétrico e corte com moldura de livro/mockup, e a v3 concentrou linhas ascendentes que direcionam o olhar para cima (fluxo vertical/ascendente) e não centrípeto ao redor do torso.",
+  "model_used": "Imagen 3 (via Antigravity generate_image)",
+  "date": "2026-09-10",
+  "negative_prompt_used": "text, watermarks, signatures, character design, cartoon, anime, manga, mascot, kawaii, photorealism, 3D, mandalas, concentric circular motifs, rigid geometric symmetry",
+  "selected_version": "v2",
+  "test_id": "ST-006"
+}
