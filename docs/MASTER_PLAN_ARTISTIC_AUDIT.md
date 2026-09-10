@@ -185,3 +185,17 @@ A distribuição de motivos da coleção de 45 ilustrações é:
 
 *Documento atualizado e finalizado em: 09/09/2026.*  
 *Registrado em:* [`docs/MASTER_PLAN_ARTISTIC_AUDIT.md`](file:///d:/PROJETO%20LIVROS%20DE%20COLORIR/Neuroflow/docs/MASTER_PLAN_ARTISTIC_AUDIT.md)
+
+---
+
+## H. ADENDO PÓS-AUDITORIA DE INTEGRIDADE — LIMPEZA EDITORIAL DO MASTER PLAN (2026-09-10)
+
+> O conteúdo histórico das seções A–G acima foi preservado integralmente. Este adendo registra apenas a correção dos 3 resíduos editoriais identificados pela auditoria `docs/FULL_PROMPT_INTEGRITY_AUDIT.md` (resultado: APPROVED WITH REVISIONS).
+
+Os 45 prompts foram considerados íntegros e NÃO foram retrabalhados. Somente o Master Plan (`content/illustration-list/illustrations-master.md`) recebeu 3 correções editoriais:
+
+1. **Tabela-resumo de motivos** — Landscape 5→**4**, Object 4→**3** (soma 47→**45**). Registros NF-001→NF-045 inalterados (fonte primária).
+2. **Tabela-resumo de complexidade** — Level 1: 5→**4**, Level 3: 17→**16**, Level 4: 10→**11**, Level 5: 4→**5** (Level 2: 9, inalterado; soma **45**). Níveis individuais dos 45 conceitos inalterados.
+3. **NF-018, campo Tonal** — "Figura e casulo bem demarcados com fundo luminoso" → "Figura e abóbada vegetal bem demarcadas com fundo luminoso". Nenhum outro campo de NF-018 alterado; conceito aprovado mantido (adulta em contemplação sob abóbada natural de salgueiros/trepadeiras).
+
+**Estado final:** MASTER PLAN = CONSISTENTE. Verificação pós-alteração: motivos = 45, Levels = 45, zero ocorrência de "casulo" no Master Plan, 45/45 registros NF presentes, nenhum prompt alterado.

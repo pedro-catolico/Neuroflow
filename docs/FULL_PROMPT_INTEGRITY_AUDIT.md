@@ -22,6 +22,7 @@
 - **Drift:** nenhum drift relevante; repetições observadas são legítimas (constantes de identidade).
 - **Correções aplicadas nesta etapa:** nenhuma (nenhum erro inequívoco exclusivo dos prompts; problemas estão na autoridade e foram apenas registrados, conforme regra §14).
 - **Decisão final: APPROVED WITH REVISIONS** — conjunto íntegro e gerável; pendências são limpezas editoriais do Master Plan, sem retrabalho estrutural dos prompts.
+- **Adendo 2026-09-10 (limpeza editorial executada):** os 3 conflitos do §15 foram corrigidos no Master Plan; nenhum prompt precisou de alteração em razão dessas correções. **Classificação final: APPROVED.** MASTER PLAN = CONSISTENTE · PROMPT SET = ÍNTEGRO · PROMPT SET = 45/45 · REVISÕES PENDENTES = 0.
 
 ---
 
@@ -199,7 +200,11 @@ A única anomalia textual restante (Tonal de NF-018 com "casulo") é cópia fiel
 
 ---
 
-## 15. Resíduos no Master Plan (MASTER PLAN RESIDUAL CONFLICT — não corrigidos)
+## 15. Resíduos no Master Plan (MASTER PLAN RESIDUAL CONFLICT — CORRIGIDOS em 2026-09-10)
+
+> Os 3 conflitos abaixo foram identificados nesta auditoria e **resolvidos na limpeza editorial de 2026-09-10** (commit "docs: finalize master plan editorial consistency"). Somente tabelas-resumo e 1 campo Tonal foram tocados; nenhum registro NF, nenhum prompt e nenhum outro documento-autoridade foi alterado.
+
+### CONFLICT #1 — Tabela-resumo de motivos soma 47 → ✅ RESOLVIDO
 
 ### CONFLICT #1 — Tabela-resumo de motivos soma 47
 - **ID/posição:** seção `RESUMO QUANTITATIVO DA DISTRIBUIÇÃO DOS MOTIVOS` do Master Plan.
@@ -207,13 +212,13 @@ A única anomalia textual restante (Tonal de NF-018 com "casulo") é cópia fiel
 - **Decisão aprovada / verdade dos registros:** Landscape 4 (NF-005, 017, 039, 040); Object 3 (NF-008, 024, 030); total 45.
 - **Recomendação:** correção editorial da tabela-resumo para 7/4/3/5/5/5/4/1/4/3/4 = 45. NÃO alterar registros por NF nem prompts (estão corretos).
 
-### CONFLICT #2 — Tabela-resumo de complexidade diverge dos registros
+### CONFLICT #2 — Tabela-resumo de complexidade diverge dos registros → ✅ RESOLVIDO
 - **ID/posição:** seção `RESUMO DA COMPLEXIDADE` do Master Plan.
 - **Texto residual:** Level 1: 5 / Level 2: 9 / Level 3: 17 / Level 4: 10 / Level 5: 4.
 - **Decisão aprovada / verdade dos registros:** Level 1: 4 / Level 2: 9 / Level 3: 16 / Level 4: 11 / Level 5: 5 (contagem registro a registro, confirmada pelos Blocks F dos 45 prompts).
 - **Recomendação:** correção editorial da tabela-resumo. NÃO alterar registros nem prompts.
 
-### CONFLICT #3 — Tonal de NF-018 contém "casulo"
+### CONFLICT #3 — Tonal de NF-018 contém "casulo" → ✅ RESOLVIDO
 - **ID/campo:** NF-018, campo **Tonal** do Master Plan: "Figura e casulo bem demarcados com fundo luminoso".
 - **Texto residual:** "casulo" (narrativa anterior de casulo mágico/fantasia).
 - **Decisão aprovada correspondente:** figura humana adulta em contemplação sob abóbada natural de salgueiros/trepadeiras; proibição explícita de magical cocoon / fairy / fantasy (implementada nos Blocks B, D, E, H e no executável de NF-018).
@@ -241,17 +246,20 @@ A única anomalia textual restante (Tonal de NF-018 com "casulo") é cópia fiel
 2. Corrigir tabela-resumo de complexidade (CONFLICT #2).
 3. Limpar Tonal de NF-018 — substituir "casulo" por "abóbada vegetal" (CONFLICT #3).
 
+✅ **Executado em 2026-09-10** (commit "docs: finalize master plan editorial consistency") — os 3 itens acima foram aplicados exatamente como recomendado; REVISÕES PENDENTES = 0.
+
 Nenhuma regeneração de prompt, nenhuma mudança de conceito, nenhuma alteração de arquitetura é necessária para gerar o conjunto de forma consistente.
 
 ---
 
 ## 18. Decisão final
 
-**APPROVED WITH REVISIONS**
+**APPROVED** (pós-limpeza editorial de 2026-09-10)
 
 - 45/45 presentes; 45/45 arquiteturalmente completos (A–H + executável + `--no`).
 - 45/45 fiéis ao Master Plan no nível operativo (classificação EXATO).
-- Nenhuma divergência material, nenhuma contradição operacional, nenhum drift relevante.
-- Revisões pendentes: 3 limpezas editoriais localizadas no Master Plan (§15/§17), sem falha estrutural e sem bloqueio à geração futura.
+- Conflict #1 resolvido; Conflict #2 resolvido; Conflict #3 resolvido.
+- Nenhum prompt precisou ser alterado em razão dessas correções.
+- MASTER PLAN = CONSISTENTE · PROMPT SET = ÍNTEGRO · PROMPT SET = 45/45 · REVISÕES PENDENTES = 0.
 
-> Fotografia verdadeira do conjunto: o prompt set está íntegro e pronto para quando a geração for autorizada. O Master Plan precisa apenas de higiene editorial nas tabelas-resumo e no Tonal de NF-018. Nenhuma imagem foi gerada e nenhum Style Test foi iniciado nesta etapa, conforme ordenado.
+> Fotografia verdadeira do conjunto: o prompt set está íntegro e pronto para quando a geração for autorizada. O Master Plan está consistente após a higiene editorial nas tabelas-resumo e no Tonal de NF-018. Nenhuma imagem foi gerada e nenhum Style Test foi iniciado nesta etapa, conforme ordenado.

@@ -449,7 +449,7 @@ Complexidade crescente, maior profundidade e imersão na diversidade de motivos.
 | **Densidade** | Média no centro, baixa fora |
 | **Integração Neurográfica** | As linhas das ramificações vegetais desdobram-se em formas curvilíneas que protegem o refúgio da figura e se expandem |
 | **Densidade Figurativa** | Medium |
-| **Tonal** | Figura e casulo bem demarcados com fundo luminoso |
+| **Tonal** | Figura e abóbada vegetal bem demarcadas com fundo luminoso |
 | **Experiência** | Focada — sentimento de acolhimento e proteção |
 | **Status** | PLANEJADO |
 | **Prompt** | art/prompts/illustration-prompts/NF-018.md |
@@ -1155,15 +1155,15 @@ A matriz abaixo resume a distribuição curada de toda a coleção de 45 ilustra
 
 | Motivo Principal | Quantidade | % da Coleção |
 |------------------|------------|--------------|
-| **Human Female** | 7 | 15.5% |
+| **Human Female** | 7 | 15.6% |
 | **Human Male** | 4 | 8.9% |
 | **Human Group** | 3 | 6.7% |
 | **Animal** | 5 | 11.1% |
 | **Flora** | 5 | 11.1% |
 | **Tree** | 5 | 11.1% |
-| **Landscape** | 5 | 11.1% |
+| **Landscape** | 4 | 8.9% |
 | **Architecture** | 4 | 8.9% |
-| **Object** | 4 | 8.9% |
+| **Object** | 3 | 6.7% |
 | **Symbolic Composition** | 4 | 8.9% |
 | **Water** | 1 | 2.2% |
 | **Total** | **45** | **100.0%** |
@@ -1174,11 +1174,11 @@ A matriz abaixo resume a distribuição curada de toda a coleção de 45 ilustra
 
 | Nível | Quantidade | % |
 |-------|------------|---|
-| Level 1 | 5 | 11% |
+| Level 1 | 4 | 9% |
 | Level 2 | 9 | 20% |
-| Level 3 | 17 | 38% |
-| Level 4 | 10 | 22% |
-| Level 5 | 4 | 9% |
+| Level 3 | 16 | 36% |
+| Level 4 | 11 | 24% |
+| Level 5 | 5 | 11% |
 | **Total** | **45** | **100%** |
 
 ---
