@@ -1,0 +1,30 @@
+{
+  "test_id": "ST-008",
+  "concept_id": "NF-030",
+  "title": "Pausa",
+  "round": 1,
+  "date": "2026-09-23",
+  "model_used": "Imagen 3 (via Antigravity generate_image)",
+  "prompt_architecture_version": "0.1",
+  "prompt_file": "art/prompts/illustration-prompts/NF-030.md",
+  "prompt_version": "0.1.0",
+  "generations_count_total": 3,
+  "round_generations_count": 3,
+  "generations": {
+    "v1": "art/style-tests/ST-008/ST-008-v1.jpg",
+    "v2": "art/style-tests/ST-008/ST-008-v2.jpg",
+    "v3": "art/style-tests/ST-008/ST-008-v3.jpg"
+  },
+  "selected_version": "v1",
+  "selected_generation": "art/style-tests/ST-008/ST-008-selected.jpg",
+  "qa_status": "APPROVED",
+  "qa_score": 4.54,
+  "scores": {
+    "v1": 4.54,
+    "v2": 3.75,
+    "v3": 2.6
+  },
+  "selection_justification": "A variação ST-008-v1 é a única que executa com maestria e fidelidade o conceito minimalista Level 1 de 'Pausa' sob a identidade Neuroflow. O livro aberto é o protagonista incontestável no primeiro plano sobre a mesa de madeira, a janela com folhagem forma o fundo lateral e as linhas neurográficas emergem organicamente das páginas do livro e do ambiente, fluindo para a margem e enquadrando o espaço negativo superior com total intencionalidade compositiva (quietude & solitude). A v2 apresentou uma moldura ornamental externa barroca/decorativa indesejada e achatou a perspectiva do livro e da mesa. A v3 falhou gravemente ao introduzir um elemento não previsto (mãos humanas sobre o livro), artefato fotográfico de prancheta física externa (lápis de cor e tigela 3D ao lado) e corte parcial da página.",
+  "prompt_used": "Contemplative Figurative adult coloring book page, minimalist Level 1 complexity, crisp black line art on pure white paper. An open book resting on a wooden table beside a window with a view of garden leaves, eye-level framing. Delicate organic neurographic lines dissolve gently from book pages and window light toward active defined borders. Active border composition with centripetal flow, containing 60-70% intentional negative space with defined visual contours serving as a key compositional element. Minimalist yet rich coloring experience featuring at least three distinct coloring areas: book pages, wooden table texture, and window garden view. Clean 100% black lines, no gray, no shading, no gradients, no solid black fills. --no text, watermarks, signatures, character design, cartoon, anime, manga, mascot, kawaii, photorealism, 3D, mandalas, unfinished look, empty forgotten space.",
+  "negative_prompt_used": "text, watermarks, signatures, character design, cartoon, anime, manga, mascot, kawaii, photorealism, 3D, mandalas, unfinished look, empty forgotten space"
+}
