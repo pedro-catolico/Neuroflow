@@ -1,28 +1,36 @@
 {
-  "concept_id": "NF-004",
-  "qa_status": "REVIEW",
   "test_id": "ST-007",
+  "concept_id": "NF-004",
+  "title": "Tecido de Neurônios",
+  "round": 2,
+  "date": "2026-09-23",
+  "model_used": "Imagen 3 (via Antigravity generate_image)",
+  "prompt_architecture_version": "0.1",
+  "prompt_file": "art/prompts/illustration-prompts/NF-004.md",
+  "prompt_version": "0.3.0",
+  "generations_count_total": 6,
+  "round_generations_count": 3,
   "generations": {
     "v1": "art/style-tests/ST-007/ST-007-v1.jpg",
     "v2": "art/style-tests/ST-007/ST-007-v2.jpg",
-    "v3": "art/style-tests/ST-007/ST-007-v3.jpg"
+    "v3": "art/style-tests/ST-007/ST-007-v3.jpg",
+    "v4": "art/style-tests/ST-007/ST-007-v4.jpg",
+    "v5": "art/style-tests/ST-007/ST-007-v5.jpg",
+    "v6": "art/style-tests/ST-007/ST-007-v6.jpg"
   },
-  "generations_count": 3,
-  "selection_justification": "A versão v2 é a única que realizou com sucesso a abstração poética e orgânica de 'Tecido de Neurônios' sem recair em padrões proibidos. Apresenta cinco nós abertos e elípticos distribuídos dinamicamente pela página (composição descentralizada em rede), com fluxos radiais orgânicos que se interconectam e preservam canais nítidos de espaço negativo (~22%). A v1 foi rejeitada por concentrar a composição em um grande círculo central (risco de mandala / núcleo único), perdendo o caráter de rede distribuída. A v3, apesar de multifocal, gerou nós com padrões quadriculados/telas internas mecânicas e incluiu moldura retangular de prancheta nas bordas. Embora a v2 seja a mais elegante e poética, sua complexidade linear aproxima-se de Level 3/4 em vez de Level 5 estrito, justificando a decisão de REVIEW.",
+  "selected_version": "v4",
+  "selected_generation": "art/style-tests/ST-007/ST-007-selected.jpg",
+  "qa_status": "APPROVED",
+  "qa_score": 4.81,
   "scores": {
     "v1": 3.65,
     "v2": 4.25,
-    "v3": 3.4
+    "v3": 3.4,
+    "v4": 4.81,
+    "v5": 3.6,
+    "v6": 4.45
   },
-  "title": "Tecido de Neurônios",
-  "model_used": "Imagen 3 (via Antigravity generate_image)",
-  "selected_version": "v2",
-  "qa_score": 4.25,
-  "date": "2026-09-10",
-  "prompt_used": "Contemplative Figurative adult coloring book page, Level 5 master complexity, crisp black line art on pure white paper. A poetic symbolic composition of organic thought-lines, open elliptical junctions, and flowing bridges weaving into a contemplative constellation, decentralized panoramic framing. Continuous fluid neurographic lines connect luminous nodal junctions into an unbroken living tapestry of consciousness, completely free of clinical or anatomical biology. Distributed network composition with multi-focal radial flow, preserving 20-25% intentional white negative space through meandering tranquil channels. Masterful line hierarchy: bold primary flowing arcs framing delicate interior filaments, forming hundreds of clean, comfortable enclosed coloring cells. Clean 100% black lines, no gray, no shading, no gradients, no solid black fills. --no text, watermarks, signatures, character design, cartoon, anime, manga, mascot, kawaii, medical diagram, brain scan, histology, anatomical cross-section, mandalas, mechanical symmetry, chaotic scribble.",
-  "selected_score": 4.25,
-  "prompt_architecture_version": "0.1",
-  "selected_generation": "art/style-tests/ST-007/ST-007-selected.jpg",
-  "prompt_file": "art/prompts/illustration-prompts/NF-004.md",
-  "negative_prompt_used": "text, watermarks, signatures, character design, cartoon, anime, manga, mascot, kawaii, medical diagram, brain scan, histology, anatomical cross-section, mandalas, mechanical symmetry, chaotic scribble"
+  "selection_justification": "A geração ST-007-v4 atingiu com exatidão máxima todos os objetivos estabelecidos para a segunda rodada: erradicou qualquer morfologia botânica/floral (eliminando nós elípticos idênticos e simetrias de roseta), consolidou uma rede genuinamente multifocal com hierarquia escalar evidente (1 nó mestre central/orgânico + 2 a 3 nós secundários assimétricos + nós menores dispersos), entregou complexidade estrutural Level 5 autêntica através de subdivisões internas, pontes e microfilamentos sem poluição visual, preservou 20-25% de espaço negativo em canais contemplativos e garantiu pure black line art sobre fundo branco limpo. A v5 apresentou artefatos graves (topo com efeito 3D/papel e nós com aspecto de lâmina/globo). A v6 obteve boa qualidade, mas apresentou densidade excessivamente concêntrica no nó central, com menos clareza nos nós secundários periféricos comparada à elegância e ritmo da v4.",
+  "prompt_used": "Contemplative Figurative adult coloring book page, Level 5 master complexity, crisp black line art on pure white paper. A poetic symbolic composition of organic thought-lines, open irregular junctions, and flowing bridges weaving into a contemplative constellation, decentralized panoramic framing. One large dominant organic thought knot anchors the composition, supported by 2 to 3 secondary branching bridge hubs at clearly different scales plus many small open filament crossings, no two nodes alike, never five or more equivalent nodes, completely free of clinical or anatomical biology. Continuous fluid neurographic lines of varied weight connect irregular junctions into an unbroken living tapestry of consciousness, with long through-connections traversing the page across quiet transition areas and selective microfilament webs in chosen regions. Distributed network composition with multi-focal asymmetric flow, preserving 20-25% intentional white negative space through meandering tranquil channels. Masterful four-tier line hierarchy: bold PRIMARY structural arcs, SECONDARY intermediate branches, delicate TERTIARY interior filaments, selective MICRO detail accents, forming hundreds of varied clean comfortable enclosed coloring cells. Clean 100% black lines, no gray, no shading, no gradients, no solid black fills. --no text, watermarks, signatures, character design, cartoon, anime, manga, mascot, kawaii, medical diagram, brain scan, histology, anatomical cross-section, mandalas, mechanical symmetry, chaotic scribble, floral rosettes, petal-like structures, flower-shaped nodes, botanical symmetry, repeated blossom forms.",
+  "negative_prompt_used": "text, watermarks, signatures, character design, cartoon, anime, manga, mascot, kawaii, medical diagram, brain scan, histology, anatomical cross-section, mandalas, mechanical symmetry, chaotic scribble, floral rosettes, petal-like structures, flower-shaped nodes, botanical symmetry, repeated blossom forms"
 }
